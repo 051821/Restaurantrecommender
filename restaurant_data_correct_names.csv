@@ -1,0 +1,1001 @@
+RestaurantID,Name,Location,City,Cuisine,Rating,Price Range,Total Reviews,Average Cost for Two (INR)
+RID0001,Sushi Sensation,Hitech City,Bangalore,Mexican,1.2,High,2400,2119
+RID0002,Taco Tower,Indiranagar,Lucknow,Thai,3.1,Medium,3791,4437
+RID0003,Spice Symphony,MG Road,Hyderabad,Continental,4.9,High,2709,4883
+RID0004,Chaat Hub,MG Road,Jaipur,Indian,3.9,Low,3429,912
+RID0005,Mediterranean Magic,SG Highway,Jaipur,Indian,2.5,Medium,212,4550
+RID0006,Sushi Sensation,Koregaon Park,Pune,Thai,2.2,High,1225,4539
+RID0007,Haveli Heights,Connaught Place,Kolkata,Mediterranean,1.6,Medium,1468,2230
+RID0008,Mediterranean Magic,Koregaon Park,Chennai,Chinese,4.4,High,569,2386
+RID0009,Thai Treat,MG Road,Ahmedabad,Mexican,1.7,Medium,2093,3722
+RID0010,Pasta Paradise,MG Road,Kolkata,Italian,1.8,Low,3243,3539
+RID0011,Urban Tadka,Indiranagar,Jaipur,American,4.4,High,4098,2904
+RID0012,The American Diner,SG Highway,Pune,Lebanese,2.8,Medium,3561,3371
+RID0013,Flavors of India,Salt Lake,Delhi,American,1.2,Low,2264,1447
+RID0014,Taco Tower,Salt Lake,Kolkata,Continental,4.8,Low,3804,1848
+RID0015,Mediterranean Magic,Hazratganj,Chennai,American,1.6,Low,271,1665
+RID0016,Spice Symphony,Malviya Nagar,Mumbai,Indian,3.5,Low,2194,1064
+RID0017,Thai Treat,SG Highway,Ahmedabad,Mediterranean,3.7,Medium,2757,3876
+RID0018,Pasta Paradise,Malviya Nagar,Hyderabad,Italian,4.7,High,1594,2197
+RID0019,Urban Tadka,Connaught Place,Mumbai,Italian,2.8,Medium,3586,3333
+RID0020,The American Diner,Indiranagar,Lucknow,Italian,2.3,Medium,2950,2521
+RID0021,Chaat Hub,Banjara Hills,Lucknow,Italian,3.4,Medium,1860,3463
+RID0022,Grill and Chill,SG Highway,Hyderabad,Lebanese,3.7,Low,4733,3435
+RID0023,Sushi Sensation,MG Road,Mumbai,Indian,1.9,Low,259,378
+RID0024,Urban Tadka,Malviya Nagar,Hyderabad,Lebanese,2.7,Medium,1242,2893
+RID0025,Flavors of India,Hazratganj,Chennai,Mexican,4.5,Medium,2117,969
+RID0026,Chaat Hub,MG Road,Kolkata,Japanese,4.4,Low,686,4816
+RID0027,Sushi Sensation,Connaught Place,Ahmedabad,American,2.5,High,4177,3444
+RID0028,Taco Tower,Indiranagar,Chennai,Lebanese,1.3,Medium,3697,3766
+RID0029,The Burger Barn,MG Road,Pune,Thai,4.6,Medium,2255,2879
+RID0030,Thai Treat,Connaught Place,Jaipur,Italian,4.8,High,3829,1830
+RID0031,Chaat Hub,Salt Lake,Mumbai,Italian,1.5,Low,2026,2376
+RID0032,Taco Tower,SG Highway,Chennai,Italian,3.5,High,4153,2979
+RID0033,Pizza Palace,Connaught Place,Chennai,Thai,3.4,High,347,3455
+RID0034,Pasta Paradise,Indiranagar,Bangalore,Lebanese,2.2,Low,2585,1853
+RID0035,Pasta Paradise,SG Highway,Jaipur,Lebanese,3.4,High,2986,2600
+RID0036,The Culinary Corner,Malviya Nagar,Hyderabad,Mediterranean,3.3,High,318,3729
+RID0037,Haveli Heights,Koregaon Park,Hyderabad,Lebanese,3.0,Low,511,4035
+RID0038,Noodle Nook,SG Highway,Jaipur,Continental,2.4,Low,4071,3859
+RID0039,Pizza Palace,SG Highway,Mumbai,Indian,2.8,Low,1502,2357
+RID0040,Pizza Palace,SG Highway,Pune,Mediterranean,2.8,High,2801,2855
+RID0041,Spice Symphony,Malviya Nagar,Lucknow,Mexican,1.9,High,1541,2400
+RID0042,The Food Court,Hitech City,Lucknow,Indian,5.0,Medium,342,392
+RID0043,The Burger Barn,MG Road,Ahmedabad,Lebanese,2.8,High,4576,542
+RID0044,Royal Delights,Indiranagar,Bangalore,American,1.1,Medium,4443,818
+RID0045,Spice Symphony,MG Road,Lucknow,Thai,3.7,Low,3332,924
+RID0046,Haveli Heights,Koregaon Park,Hyderabad,Italian,1.8,Medium,4067,860
+RID0047,Urban Tadka,Indiranagar,Pune,Indian,2.4,High,749,2345
+RID0048,Grill and Chill,SG Highway,Kolkata,Lebanese,3.9,Medium,2204,3999
+RID0049,Noodle Nook,MG Road,Delhi,Chinese,1.9,Medium,3453,3480
+RID0050,Noodle Nook,Hazratganj,Jaipur,Italian,3.6,High,1546,269
+RID0051,Taco Tower,SG Highway,Delhi,Japanese,1.7,Low,2924,4598
+RID0052,Taco Tower,Koregaon Park,Ahmedabad,Lebanese,3.1,High,1291,2014
+RID0053,Sushi Sensation,SG Highway,Lucknow,Italian,4.4,Medium,3902,2189
+RID0054,Haveli Heights,Malviya Nagar,Ahmedabad,American,4.2,High,2911,4195
+RID0055,Urban Tadka,Indiranagar,Chennai,Lebanese,2.3,Low,4375,3282
+RID0056,Pizza Palace,Banjara Hills,Ahmedabad,Indian,3.9,Medium,2703,3148
+RID0057,Pasta Paradise,Koregaon Park,Lucknow,Lebanese,5.0,High,1756,835
+RID0058,Urban Tadka,Malviya Nagar,Kolkata,Chinese,3.8,Low,1069,4543
+RID0059,Biryani Bliss,Hazratganj,Chennai,Italian,4.5,Medium,1525,4131
+RID0060,Chaat Hub,Malviya Nagar,Jaipur,American,1.6,Low,4725,4430
+RID0061,Thai Treat,Hazratganj,Delhi,Chinese,2.3,Low,588,3916
+RID0062,Lebanese Lounge,Salt Lake,Lucknow,American,2.2,Low,4798,1368
+RID0063,Thai Treat,Koregaon Park,Ahmedabad,American,4.4,Low,4101,825
+RID0064,Royal Delights,Indiranagar,Bangalore,Lebanese,3.4,High,1611,1903
+RID0065,The Burger Barn,Hazratganj,Hyderabad,Chinese,1.9,Medium,3475,3103
+RID0066,The Culinary Corner,Banjara Hills,Jaipur,Continental,2.6,Medium,523,3359
+RID0067,The Food Court,Salt Lake,Lucknow,Mexican,2.1,Medium,25,2052
+RID0068,Flavors of India,Banjara Hills,Kolkata,American,3.4,High,83,962
+RID0069,Thai Treat,Malviya Nagar,Ahmedabad,Lebanese,3.6,Low,1898,1782
+RID0070,Chaat Hub,Salt Lake,Pune,Indian,2.1,High,4088,3844
+RID0071,The Burger Barn,Connaught Place,Pune,Japanese,3.5,Medium,4197,4281
+RID0072,The Culinary Corner,Indiranagar,Pune,Continental,2.1,Medium,502,1060
+RID0073,Flavors of India,Hitech City,Mumbai,Italian,4.9,Medium,3330,1525
+RID0074,Flavors of India,Salt Lake,Kolkata,Continental,1.9,Medium,1432,2441
+RID0075,The Culinary Corner,Indiranagar,Chennai,Chinese,2.0,Low,2833,4793
+RID0076,Lebanese Lounge,Hazratganj,Ahmedabad,Lebanese,2.5,Medium,4684,2453
+RID0077,Royal Delights,MG Road,Ahmedabad,Lebanese,1.9,Medium,1903,758
+RID0078,The Food Court,MG Road,Lucknow,Indian,2.7,High,1478,4916
+RID0079,Biryani Bliss,Salt Lake,Mumbai,Thai,1.2,High,1185,3145
+RID0080,The American Diner,Connaught Place,Hyderabad,Indian,2.2,High,457,1096
+RID0081,Haveli Heights,Koregaon Park,Pune,Thai,2.8,High,1287,752
+RID0082,Royal Delights,Hitech City,Lucknow,Japanese,2.6,Medium,4006,4249
+RID0083,Taco Tower,SG Highway,Bangalore,Mediterranean,4.0,High,280,845
+RID0084,The Culinary Corner,Hitech City,Lucknow,Mediterranean,3.8,High,2586,1125
+RID0085,The Food Court,SG Highway,Chennai,Mexican,4.2,Medium,4075,4097
+RID0086,Sushi Sensation,Koregaon Park,Chennai,Italian,2.3,Low,447,708
+RID0087,Spice Symphony,Banjara Hills,Delhi,Thai,3.2,High,2391,1160
+RID0088,Mediterranean Magic,Koregaon Park,Chennai,Italian,5.0,High,956,2252
+RID0089,Urban Tadka,Connaught Place,Jaipur,American,3.2,Medium,1275,4986
+RID0090,Taco Tower,MG Road,Pune,Italian,4.8,High,110,1176
+RID0091,Biryani Bliss,Hazratganj,Ahmedabad,Mexican,1.5,High,3362,628
+RID0092,Thai Treat,Hazratganj,Lucknow,American,2.8,High,1676,4847
+RID0093,Noodle Nook,Hitech City,Mumbai,Chinese,3.5,High,3530,466
+RID0094,Pasta Paradise,MG Road,Ahmedabad,Mexican,3.0,Low,2455,327
+RID0095,Flavors of India,Banjara Hills,Chennai,Lebanese,4.9,Low,4521,2044
+RID0096,Haveli Heights,Malviya Nagar,Ahmedabad,Mediterranean,3.7,High,265,823
+RID0097,Pizza Palace,Hitech City,Lucknow,Thai,1.5,High,2583,1241
+RID0098,Noodle Nook,Connaught Place,Lucknow,Mexican,3.1,Low,2735,4634
+RID0099,The Culinary Corner,SG Highway,Chennai,Lebanese,3.5,Medium,667,1349
+RID0100,Grill and Chill,Malviya Nagar,Delhi,Mediterranean,1.2,High,1894,1577
+RID0101,Sushi Sensation,MG Road,Pune,Thai,1.5,High,3751,3266
+RID0102,Royal Delights,Hazratganj,Pune,Japanese,1.4,Low,1417,259
+RID0103,Royal Delights,Indiranagar,Delhi,American,1.0,Medium,4619,4140
+RID0104,Grill and Chill,Connaught Place,Hyderabad,Japanese,2.1,Low,188,2309
+RID0105,The American Diner,Connaught Place,Pune,Thai,2.3,Medium,2147,1594
+RID0106,The Burger Barn,Indiranagar,Chennai,Continental,3.2,High,4241,4106
+RID0107,Grill and Chill,SG Highway,Mumbai,Mediterranean,1.7,Low,1592,778
+RID0108,The Burger Barn,SG Highway,Chennai,Japanese,1.3,Medium,1923,4330
+RID0109,Thai Treat,Connaught Place,Mumbai,Continental,3.2,Low,765,3053
+RID0110,Royal Delights,Banjara Hills,Chennai,American,2.1,Medium,2018,2669
+RID0111,The Food Court,Salt Lake,Ahmedabad,Lebanese,4.7,Medium,2383,3819
+RID0112,Spice Symphony,Koregaon Park,Jaipur,American,2.8,High,3779,987
+RID0113,The Food Court,Indiranagar,Jaipur,Thai,3.9,Medium,1341,2907
+RID0114,Royal Delights,Connaught Place,Mumbai,Lebanese,1.3,High,253,3666
+RID0115,Thai Treat,Malviya Nagar,Ahmedabad,Italian,4.3,High,3013,1774
+RID0116,Grill and Chill,Koregaon Park,Pune,Mediterranean,2.3,Medium,2346,4766
+RID0117,The Culinary Corner,SG Highway,Lucknow,Continental,4.5,Low,4691,302
+RID0118,Chaat Hub,MG Road,Delhi,Italian,1.4,Low,4917,1180
+RID0119,Pasta Paradise,SG Highway,Kolkata,Lebanese,2.0,High,44,1943
+RID0120,Thai Treat,Malviya Nagar,Jaipur,American,3.9,Medium,4638,4750
+RID0121,Grill and Chill,Hazratganj,Lucknow,Indian,1.4,High,3165,4062
+RID0122,Noodle Nook,Banjara Hills,Chennai,Italian,1.1,High,4007,549
+RID0123,Grill and Chill,Hazratganj,Chennai,Japanese,4.8,Low,4424,2279
+RID0124,The Burger Barn,Banjara Hills,Chennai,Italian,2.8,Medium,4831,3861
+RID0125,Haveli Heights,Koregaon Park,Hyderabad,American,3.7,Low,4953,1816
+RID0126,Pizza Palace,Malviya Nagar,Pune,Mexican,3.0,Low,4645,2501
+RID0127,Haveli Heights,Indiranagar,Pune,Thai,2.9,High,3043,4562
+RID0128,Taco Tower,Hazratganj,Jaipur,Mexican,1.6,Low,1732,4118
+RID0129,Spice Symphony,Indiranagar,Ahmedabad,Chinese,3.2,High,4894,1872
+RID0130,Thai Treat,Koregaon Park,Delhi,Italian,2.7,Medium,4199,978
+RID0131,Urban Tadka,Hazratganj,Chennai,Japanese,1.0,Medium,4832,3483
+RID0132,Chaat Hub,Hitech City,Lucknow,Indian,1.2,High,4019,4947
+RID0133,Flavors of India,MG Road,Kolkata,Mediterranean,3.2,High,3014,1749
+RID0134,The Burger Barn,Indiranagar,Chennai,Mediterranean,3.4,Medium,2127,3032
+RID0135,Flavors of India,Hitech City,Bangalore,Italian,1.9,High,849,4944
+RID0136,Spice Symphony,MG Road,Ahmedabad,Thai,1.3,Medium,564,4434
+RID0137,Grill and Chill,Banjara Hills,Mumbai,Mediterranean,2.9,Low,2988,3969
+RID0138,Mediterranean Magic,Hitech City,Mumbai,Italian,4.1,High,97,4900
+RID0139,Pizza Palace,Koregaon Park,Hyderabad,Lebanese,1.8,Medium,2062,2218
+RID0140,Urban Tadka,Salt Lake,Pune,Japanese,3.2,Medium,801,1391
+RID0141,Thai Treat,Connaught Place,Lucknow,Continental,2.1,Medium,4797,4766
+RID0142,Noodle Nook,Hitech City,Ahmedabad,Mexican,4.9,Low,1301,3803
+RID0143,The American Diner,Malviya Nagar,Delhi,Chinese,1.8,Medium,465,4499
+RID0144,Urban Tadka,Malviya Nagar,Hyderabad,Italian,2.8,Low,1543,4246
+RID0145,Urban Tadka,Hitech City,Lucknow,American,4.9,Medium,2272,3343
+RID0146,Taco Tower,Hitech City,Pune,Italian,1.1,Low,3333,1167
+RID0147,Flavors of India,Salt Lake,Lucknow,Chinese,2.9,High,1553,3748
+RID0148,Royal Delights,Malviya Nagar,Kolkata,Continental,2.5,High,850,2635
+RID0149,Biryani Bliss,SG Highway,Bangalore,American,4.3,High,3589,3688
+RID0150,Lebanese Lounge,Hitech City,Kolkata,Lebanese,1.1,High,281,2629
+RID0151,The Culinary Corner,MG Road,Chennai,Chinese,3.4,High,430,4630
+RID0152,Pizza Palace,Indiranagar,Kolkata,Japanese,3.5,High,738,944
+RID0153,Taco Tower,Banjara Hills,Kolkata,Lebanese,2.7,Low,3903,816
+RID0154,Flavors of India,Hazratganj,Kolkata,Mediterranean,1.9,High,298,3602
+RID0155,The Food Court,Banjara Hills,Delhi,Mediterranean,2.7,Low,4810,1548
+RID0156,Royal Delights,Hitech City,Pune,Thai,1.4,Medium,2143,1636
+RID0157,Mediterranean Magic,Hazratganj,Pune,Chinese,1.9,High,2936,2958
+RID0158,Lebanese Lounge,Koregaon Park,Chennai,American,3.7,Medium,3012,3903
+RID0159,Grill and Chill,Connaught Place,Kolkata,Mediterranean,4.5,Medium,3448,1005
+RID0160,The American Diner,Hitech City,Lucknow,Lebanese,1.2,Medium,1844,3520
+RID0161,The Culinary Corner,SG Highway,Ahmedabad,Chinese,3.6,High,4767,1241
+RID0162,Royal Delights,Connaught Place,Pune,Italian,2.9,High,1035,1625
+RID0163,Mediterranean Magic,Banjara Hills,Delhi,Mexican,1.4,High,1243,1155
+RID0164,Spice Symphony,SG Highway,Lucknow,Chinese,3.9,Low,650,1976
+RID0165,Taco Tower,Hitech City,Mumbai,Mediterranean,4.6,Medium,2352,662
+RID0166,Taco Tower,Indiranagar,Ahmedabad,American,3.2,Low,1926,2709
+RID0167,Urban Tadka,Salt Lake,Kolkata,Mediterranean,2.7,Low,1963,3733
+RID0168,Royal Delights,MG Road,Kolkata,Continental,4.3,Medium,987,2206
+RID0169,The Culinary Corner,Hitech City,Kolkata,Mexican,4.0,High,3150,1309
+RID0170,The Burger Barn,Salt Lake,Ahmedabad,Mediterranean,3.4,Low,4565,1510
+RID0171,Urban Tadka,Indiranagar,Hyderabad,Mediterranean,2.4,Medium,1352,3495
+RID0172,The Culinary Corner,MG Road,Jaipur,Italian,3.7,High,4472,3984
+RID0173,Biryani Bliss,Hazratganj,Jaipur,Thai,4.1,Medium,2199,476
+RID0174,Mediterranean Magic,Hitech City,Bangalore,American,4.7,High,2219,3977
+RID0175,The Burger Barn,Hitech City,Bangalore,Mexican,3.6,High,713,4373
+RID0176,The Burger Barn,Connaught Place,Ahmedabad,Japanese,4.9,Low,4412,4627
+RID0177,Pasta Paradise,Koregaon Park,Chennai,Mediterranean,2.8,Medium,4965,3145
+RID0178,Thai Treat,Indiranagar,Bangalore,American,3.0,Medium,2063,3322
+RID0179,Royal Delights,Hitech City,Hyderabad,Italian,2.9,Low,2476,4387
+RID0180,Chaat Hub,Malviya Nagar,Delhi,Mediterranean,2.6,High,4458,2446
+RID0181,The Burger Barn,Hazratganj,Mumbai,Japanese,3.3,Medium,894,4164
+RID0182,Pizza Palace,Connaught Place,Bangalore,Thai,2.6,High,3334,2405
+RID0183,Lebanese Lounge,Hitech City,Chennai,Continental,4.7,Medium,4730,341
+RID0184,Noodle Nook,SG Highway,Bangalore,Continental,2.6,Low,1531,964
+RID0185,Taco Tower,Koregaon Park,Chennai,Chinese,4.5,High,3186,4260
+RID0186,The Culinary Corner,SG Highway,Mumbai,Japanese,3.7,High,355,1771
+RID0187,Spice Symphony,Koregaon Park,Delhi,Lebanese,3.7,High,1963,2768
+RID0188,Urban Tadka,Hitech City,Hyderabad,Mediterranean,4.5,Medium,1349,2498
+RID0189,Chaat Hub,SG Highway,Jaipur,Continental,1.8,Medium,794,1713
+RID0190,The American Diner,Malviya Nagar,Chennai,Italian,2.4,Medium,1887,4372
+RID0191,The American Diner,Salt Lake,Lucknow,Chinese,4.1,High,1227,2315
+RID0192,Mediterranean Magic,MG Road,Chennai,Indian,1.7,Medium,2327,4609
+RID0193,Flavors of India,MG Road,Jaipur,Japanese,4.9,Medium,1261,2105
+RID0194,Noodle Nook,Banjara Hills,Lucknow,Continental,1.6,Low,3648,4773
+RID0195,Spice Symphony,MG Road,Chennai,Thai,3.5,Low,4823,1552
+RID0196,Taco Tower,Malviya Nagar,Ahmedabad,Mexican,1.5,Low,310,1103
+RID0197,The Culinary Corner,SG Highway,Kolkata,Mediterranean,1.3,High,4647,1058
+RID0198,Flavors of India,Salt Lake,Mumbai,Italian,3.3,Low,4953,3251
+RID0199,Urban Tadka,MG Road,Hyderabad,American,3.0,Medium,1869,2262
+RID0200,Haveli Heights,Hitech City,Hyderabad,Mexican,2.8,Medium,804,1979
+RID0201,Sushi Sensation,Koregaon Park,Bangalore,Indian,1.3,Low,2770,3469
+RID0202,Chaat Hub,Malviya Nagar,Lucknow,Continental,2.6,Low,730,1082
+RID0203,Haveli Heights,SG Highway,Lucknow,Lebanese,2.8,High,4255,1221
+RID0204,Spice Symphony,Koregaon Park,Ahmedabad,Continental,4.4,High,3430,607
+RID0205,Taco Tower,Malviya Nagar,Pune,Mexican,4.4,Medium,2303,2565
+RID0206,Mediterranean Magic,Malviya Nagar,Jaipur,Indian,4.5,High,2699,2731
+RID0207,Pizza Palace,MG Road,Mumbai,Chinese,1.2,Low,4797,2598
+RID0208,Mediterranean Magic,Hitech City,Mumbai,American,3.3,High,69,1298
+RID0209,Pizza Palace,MG Road,Mumbai,Mediterranean,2.7,High,1443,4343
+RID0210,Chaat Hub,Connaught Place,Bangalore,Lebanese,1.7,Low,3082,571
+RID0211,Urban Tadka,MG Road,Bangalore,Mediterranean,3.2,High,1767,2785
+RID0212,Biryani Bliss,Hitech City,Hyderabad,Italian,5.0,Medium,2963,241
+RID0213,Biryani Bliss,Connaught Place,Ahmedabad,Mexican,3.0,Medium,3470,2132
+RID0214,The Burger Barn,Indiranagar,Lucknow,Mexican,3.9,High,2210,1783
+RID0215,Noodle Nook,Banjara Hills,Pune,Mexican,3.5,Low,1716,1044
+RID0216,Flavors of India,Salt Lake,Delhi,Thai,3.5,Medium,2393,4056
+RID0217,The Culinary Corner,MG Road,Mumbai,Italian,2.8,Low,4582,1973
+RID0218,Urban Tadka,SG Highway,Pune,Chinese,3.0,High,2338,2497
+RID0219,The Burger Barn,SG Highway,Pune,Mexican,3.4,Medium,3211,704
+RID0220,Pasta Paradise,Malviya Nagar,Ahmedabad,Mediterranean,1.6,High,2854,3623
+RID0221,Sushi Sensation,Connaught Place,Hyderabad,Thai,1.8,Low,2028,2635
+RID0222,Sushi Sensation,Banjara Hills,Pune,Lebanese,2.1,Medium,3681,2174
+RID0223,Pasta Paradise,Salt Lake,Kolkata,Thai,1.4,Medium,3317,2375
+RID0224,Noodle Nook,Connaught Place,Chennai,Mexican,2.7,High,1037,1460
+RID0225,Haveli Heights,MG Road,Pune,Japanese,2.8,Low,1079,3702
+RID0226,Taco Tower,Banjara Hills,Lucknow,Lebanese,2.0,Medium,781,3765
+RID0227,The American Diner,Connaught Place,Pune,Chinese,4.6,High,1718,4591
+RID0228,Chaat Hub,Hazratganj,Delhi,Italian,4.2,High,1157,1586
+RID0229,Sushi Sensation,Hitech City,Delhi,American,2.0,Low,2254,4868
+RID0230,Biryani Bliss,Hazratganj,Ahmedabad,Indian,3.2,Medium,4806,3322
+RID0231,The American Diner,Hazratganj,Delhi,Mediterranean,4.0,Low,189,655
+RID0232,Royal Delights,MG Road,Kolkata,Indian,3.9,Low,3731,1549
+RID0233,Haveli Heights,Malviya Nagar,Lucknow,Continental,1.9,Medium,4276,1718
+RID0234,Mediterranean Magic,Koregaon Park,Kolkata,Lebanese,2.5,Low,1619,1365
+RID0235,Biryani Bliss,Hitech City,Bangalore,Indian,1.2,Low,3377,2380
+RID0236,The Culinary Corner,Banjara Hills,Mumbai,American,4.7,Medium,346,3361
+RID0237,Pasta Paradise,Salt Lake,Kolkata,Mexican,2.2,High,714,947
+RID0238,Grill and Chill,Banjara Hills,Jaipur,Chinese,2.2,High,4297,4930
+RID0239,Grill and Chill,MG Road,Kolkata,Indian,2.6,Medium,1702,1799
+RID0240,Grill and Chill,Hitech City,Lucknow,Chinese,4.2,Medium,3298,1474
+RID0241,The Culinary Corner,Salt Lake,Kolkata,Japanese,2.6,High,1091,915
+RID0242,The Food Court,Salt Lake,Ahmedabad,Mediterranean,4.9,High,2022,2528
+RID0243,Lebanese Lounge,Indiranagar,Pune,Continental,4.4,High,4747,2809
+RID0244,Lebanese Lounge,Hazratganj,Lucknow,Italian,3.5,Low,4533,4229
+RID0245,Noodle Nook,Indiranagar,Lucknow,Chinese,4.9,Low,75,2042
+RID0246,Flavors of India,Hazratganj,Chennai,Indian,2.1,Medium,1018,277
+RID0247,Pizza Palace,Indiranagar,Ahmedabad,Mediterranean,3.1,High,1538,2300
+RID0248,The Burger Barn,Indiranagar,Pune,Mexican,4.0,Low,3262,732
+RID0249,The Food Court,Connaught Place,Kolkata,Indian,1.3,Low,4063,479
+RID0250,Sushi Sensation,Salt Lake,Hyderabad,American,1.9,High,268,4292
+RID0251,Pizza Palace,Connaught Place,Hyderabad,Continental,2.4,Low,2448,1699
+RID0252,Royal Delights,Hazratganj,Ahmedabad,Italian,3.4,Low,3492,3624
+RID0253,Noodle Nook,Hitech City,Kolkata,Chinese,1.9,Medium,4525,4773
+RID0254,The Culinary Corner,Malviya Nagar,Bangalore,American,2.6,Low,807,429
+RID0255,Taco Tower,Hitech City,Ahmedabad,Italian,3.0,Low,2669,4300
+RID0256,Chaat Hub,Hitech City,Hyderabad,Chinese,1.1,Medium,1188,1183
+RID0257,Royal Delights,Malviya Nagar,Jaipur,Chinese,3.7,Low,4815,1663
+RID0258,Sushi Sensation,Hazratganj,Delhi,Chinese,4.8,Medium,1876,1247
+RID0259,The Culinary Corner,Malviya Nagar,Hyderabad,Mexican,4.6,Low,2278,3539
+RID0260,Taco Tower,Connaught Place,Jaipur,Chinese,5.0,Low,3557,3530
+RID0261,The Food Court,Connaught Place,Kolkata,Mexican,2.9,Low,185,3456
+RID0262,The Food Court,Koregaon Park,Lucknow,Thai,4.2,Low,754,2245
+RID0263,The Food Court,Hazratganj,Lucknow,Continental,1.2,High,2090,1326
+RID0264,Noodle Nook,Hitech City,Mumbai,Japanese,4.2,High,1120,4877
+RID0265,The Burger Barn,MG Road,Kolkata,Chinese,1.7,Medium,512,3054
+RID0266,Chaat Hub,Hitech City,Mumbai,Thai,3.1,Low,3685,1042
+RID0267,Pizza Palace,MG Road,Bangalore,Continental,3.4,Medium,37,3168
+RID0268,Spice Symphony,SG Highway,Jaipur,Continental,1.2,Low,3289,653
+RID0269,Sushi Sensation,Malviya Nagar,Hyderabad,American,1.7,Medium,1892,3522
+RID0270,Haveli Heights,Koregaon Park,Ahmedabad,Italian,2.4,High,1682,3103
+RID0271,Spice Symphony,SG Highway,Mumbai,Chinese,4.0,High,1143,2439
+RID0272,Pasta Paradise,Malviya Nagar,Kolkata,Indian,2.5,Medium,3249,3475
+RID0273,Thai Treat,Malviya Nagar,Hyderabad,Mediterranean,1.6,High,1832,2731
+RID0274,Mediterranean Magic,SG Highway,Hyderabad,Indian,3.9,Medium,1737,458
+RID0275,Biryani Bliss,Connaught Place,Hyderabad,Italian,2.5,High,2108,2033
+RID0276,Flavors of India,Indiranagar,Pune,American,3.1,High,4750,222
+RID0277,Thai Treat,MG Road,Lucknow,Indian,1.3,Low,4861,4826
+RID0278,The Burger Barn,Malviya Nagar,Lucknow,Lebanese,1.7,Medium,3740,3508
+RID0279,Flavors of India,Hazratganj,Pune,Thai,2.5,Medium,2817,617
+RID0280,Mediterranean Magic,Hazratganj,Kolkata,Italian,1.9,Low,2796,3100
+RID0281,Royal Delights,MG Road,Lucknow,Continental,1.8,Low,4312,648
+RID0282,Noodle Nook,SG Highway,Kolkata,Continental,4.3,Low,4609,2748
+RID0283,The Culinary Corner,Koregaon Park,Mumbai,Mexican,2.1,Medium,675,2270
+RID0284,The Burger Barn,Indiranagar,Lucknow,American,2.1,High,4453,4871
+RID0285,Pasta Paradise,Indiranagar,Mumbai,Continental,1.6,Low,4225,3404
+RID0286,Pasta Paradise,Indiranagar,Mumbai,Mexican,4.5,Medium,916,1544
+RID0287,Mediterranean Magic,Banjara Hills,Bangalore,Lebanese,2.1,High,3560,1612
+RID0288,Grill and Chill,SG Highway,Delhi,Japanese,2.3,High,3831,866
+RID0289,Noodle Nook,Koregaon Park,Bangalore,American,1.9,Low,3008,3526
+RID0290,The American Diner,SG Highway,Mumbai,Mediterranean,3.4,High,1817,3876
+RID0291,Taco Tower,Hazratganj,Hyderabad,Mediterranean,4.1,Low,2678,541
+RID0292,The Burger Barn,Salt Lake,Chennai,Chinese,4.5,High,3876,1436
+RID0293,The Culinary Corner,Hitech City,Kolkata,Mexican,3.9,Medium,1248,4655
+RID0294,The American Diner,Connaught Place,Hyderabad,Chinese,3.9,Low,4858,3254
+RID0295,Pasta Paradise,Malviya Nagar,Bangalore,American,3.9,Medium,2654,1308
+RID0296,Haveli Heights,Hazratganj,Lucknow,Japanese,4.5,Medium,3258,3663
+RID0297,Taco Tower,SG Highway,Bangalore,Chinese,1.1,Low,903,2355
+RID0298,Thai Treat,Malviya Nagar,Hyderabad,Mexican,4.9,Low,201,2172
+RID0299,Haveli Heights,Koregaon Park,Kolkata,Chinese,1.0,Low,4871,438
+RID0300,Royal Delights,Malviya Nagar,Pune,Chinese,3.8,Medium,1529,2809
+RID0301,Haveli Heights,Malviya Nagar,Bangalore,Indian,4.6,Low,4918,3946
+RID0302,Haveli Heights,Connaught Place,Jaipur,American,3.4,Medium,4304,3578
+RID0303,The Culinary Corner,Indiranagar,Jaipur,Italian,3.6,Medium,696,3179
+RID0304,The Culinary Corner,Indiranagar,Mumbai,Japanese,3.1,Medium,4801,2250
+RID0305,The American Diner,Indiranagar,Kolkata,Italian,4.7,High,3159,546
+RID0306,Urban Tadka,SG Highway,Delhi,Lebanese,4.7,Medium,4167,1286
+RID0307,Biryani Bliss,SG Highway,Pune,Mediterranean,3.6,Low,2162,4346
+RID0308,Sushi Sensation,Hitech City,Hyderabad,Continental,2.6,Low,4879,2870
+RID0309,Taco Tower,Koregaon Park,Bangalore,American,3.0,High,2688,2993
+RID0310,Spice Symphony,Malviya Nagar,Chennai,Japanese,1.3,Low,2216,2399
+RID0311,Grill and Chill,Hazratganj,Delhi,Lebanese,3.0,High,973,4075
+RID0312,The Culinary Corner,Hazratganj,Lucknow,Italian,4.3,Low,4358,1676
+RID0313,Flavors of India,Salt Lake,Kolkata,Japanese,2.7,High,3512,1205
+RID0314,Flavors of India,MG Road,Ahmedabad,Mexican,4.9,Medium,2279,1706
+RID0315,The American Diner,Malviya Nagar,Chennai,Mexican,3.1,Low,546,2941
+RID0316,Pasta Paradise,Hazratganj,Kolkata,Mediterranean,2.7,Medium,2568,2882
+RID0317,Spice Symphony,Connaught Place,Hyderabad,Mediterranean,3.9,Low,533,4344
+RID0318,Pasta Paradise,Malviya Nagar,Chennai,American,1.3,Low,640,478
+RID0319,Lebanese Lounge,Indiranagar,Kolkata,Chinese,1.9,High,3374,3214
+RID0320,Urban Tadka,MG Road,Mumbai,Mexican,1.4,Low,575,1330
+RID0321,Spice Symphony,SG Highway,Chennai,Japanese,2.5,Low,4639,1228
+RID0322,Lebanese Lounge,Malviya Nagar,Hyderabad,Chinese,2.1,Low,3851,3079
+RID0323,Taco Tower,Hitech City,Bangalore,Lebanese,1.0,Medium,4584,4226
+RID0324,The Food Court,Banjara Hills,Chennai,Lebanese,1.6,High,1669,3242
+RID0325,Lebanese Lounge,Banjara Hills,Bangalore,Chinese,2.3,Low,3520,2055
+RID0326,Haveli Heights,SG Highway,Ahmedabad,Japanese,2.7,Low,702,3482
+RID0327,Royal Delights,Salt Lake,Hyderabad,Thai,2.7,Medium,1216,2741
+RID0328,Spice Symphony,SG Highway,Lucknow,Thai,3.3,Low,3198,2299
+RID0329,Pasta Paradise,Banjara Hills,Chennai,Mexican,1.2,Medium,3811,3254
+RID0330,Lebanese Lounge,Salt Lake,Bangalore,Continental,4.5,Medium,4344,2702
+RID0331,The Food Court,Malviya Nagar,Chennai,American,2.4,Medium,3520,1280
+RID0332,Haveli Heights,Koregaon Park,Pune,Mexican,3.6,Low,2645,2063
+RID0333,Royal Delights,Salt Lake,Ahmedabad,Mexican,2.0,Low,2007,735
+RID0334,The American Diner,Hazratganj,Chennai,Mediterranean,3.6,High,4532,3823
+RID0335,The Culinary Corner,Connaught Place,Pune,Italian,4.9,High,4778,980
+RID0336,Grill and Chill,MG Road,Hyderabad,Mediterranean,3.7,Low,277,4285
+RID0337,Pasta Paradise,Salt Lake,Kolkata,Japanese,1.8,Low,3430,2736
+RID0338,Taco Tower,MG Road,Kolkata,Chinese,4.2,Medium,4467,513
+RID0339,Sushi Sensation,Hazratganj,Kolkata,American,4.4,Medium,4213,293
+RID0340,The Culinary Corner,Koregaon Park,Hyderabad,Lebanese,2.0,Low,1006,2865
+RID0341,The Burger Barn,Banjara Hills,Jaipur,Mexican,1.2,Medium,894,3952
+RID0342,Chaat Hub,MG Road,Pune,Italian,3.2,High,2319,1260
+RID0343,The Burger Barn,SG Highway,Delhi,Mexican,2.1,Low,531,766
+RID0344,Urban Tadka,Malviya Nagar,Delhi,Indian,1.6,High,3620,1515
+RID0345,Flavors of India,Hitech City,Chennai,Mediterranean,2.9,Low,2916,2813
+RID0346,Chaat Hub,SG Highway,Jaipur,Continental,3.7,Medium,2999,3628
+RID0347,Grill and Chill,SG Highway,Bangalore,Mediterranean,3.2,Low,2024,3429
+RID0348,The Culinary Corner,Salt Lake,Mumbai,American,4.7,Medium,3213,1135
+RID0349,Chaat Hub,MG Road,Jaipur,Mexican,1.2,Medium,1000,4048
+RID0350,Mediterranean Magic,Connaught Place,Pune,Mexican,2.1,Medium,2826,4375
+RID0351,Urban Tadka,MG Road,Bangalore,Chinese,1.5,High,4618,684
+RID0352,Mediterranean Magic,MG Road,Jaipur,Mediterranean,2.6,Low,4091,709
+RID0353,Royal Delights,Indiranagar,Kolkata,Lebanese,4.5,Medium,480,689
+RID0354,Taco Tower,Banjara Hills,Hyderabad,Mediterranean,3.4,Low,4278,4175
+RID0355,Noodle Nook,Banjara Hills,Jaipur,Chinese,3.1,Low,1085,3527
+RID0356,Flavors of India,Indiranagar,Hyderabad,Continental,1.2,Low,3178,1359
+RID0357,The Culinary Corner,Malviya Nagar,Delhi,American,3.2,Medium,984,1970
+RID0358,Pizza Palace,MG Road,Hyderabad,Chinese,3.1,High,576,1696
+RID0359,The American Diner,Indiranagar,Lucknow,American,2.0,Low,3418,2371
+RID0360,Haveli Heights,SG Highway,Chennai,Japanese,1.6,Medium,1436,4274
+RID0361,Royal Delights,MG Road,Lucknow,Thai,3.0,Medium,225,1382
+RID0362,Taco Tower,Connaught Place,Delhi,Mediterranean,2.4,Low,1379,623
+RID0363,Lebanese Lounge,Banjara Hills,Lucknow,Thai,4.9,Low,4534,3055
+RID0364,Urban Tadka,Banjara Hills,Chennai,Indian,1.7,Medium,952,3075
+RID0365,Spice Symphony,MG Road,Ahmedabad,Thai,1.5,Medium,3883,846
+RID0366,Pasta Paradise,Koregaon Park,Chennai,Thai,1.4,Medium,3962,3853
+RID0367,Haveli Heights,Salt Lake,Ahmedabad,Italian,2.6,Low,796,4542
+RID0368,Noodle Nook,Malviya Nagar,Jaipur,Italian,4.0,High,486,4416
+RID0369,Taco Tower,Banjara Hills,Ahmedabad,Indian,2.9,Low,2457,2667
+RID0370,Thai Treat,MG Road,Hyderabad,Thai,1.2,High,4860,200
+RID0371,Pasta Paradise,MG Road,Kolkata,Mediterranean,3.0,Medium,4654,2113
+RID0372,Spice Symphony,MG Road,Bangalore,Thai,4.0,High,228,2696
+RID0373,Pasta Paradise,Malviya Nagar,Chennai,Japanese,3.4,Medium,1583,1197
+RID0374,The American Diner,SG Highway,Chennai,Continental,1.6,Medium,1158,2872
+RID0375,Biryani Bliss,Koregaon Park,Kolkata,Lebanese,1.2,High,126,4201
+RID0376,The Food Court,Hazratganj,Hyderabad,Italian,5.0,Medium,4662,4234
+RID0377,Thai Treat,Indiranagar,Jaipur,Japanese,4.5,Low,1046,1641
+RID0378,The Burger Barn,Malviya Nagar,Pune,Mexican,1.1,High,4829,3662
+RID0379,The Burger Barn,Banjara Hills,Bangalore,Thai,4.2,High,1535,1434
+RID0380,Pasta Paradise,Indiranagar,Jaipur,Continental,4.4,Low,519,4301
+RID0381,Grill and Chill,Malviya Nagar,Jaipur,American,3.3,High,1058,764
+RID0382,Haveli Heights,Connaught Place,Bangalore,Indian,1.0,Low,2890,3801
+RID0383,Biryani Bliss,MG Road,Ahmedabad,Japanese,4.7,Medium,1913,1574
+RID0384,The Culinary Corner,Malviya Nagar,Jaipur,Mexican,2.4,Low,1218,1371
+RID0385,Thai Treat,Banjara Hills,Jaipur,Mediterranean,2.5,High,181,2864
+RID0386,Sushi Sensation,MG Road,Bangalore,Japanese,1.2,High,3470,2400
+RID0387,Lebanese Lounge,SG Highway,Delhi,Chinese,4.6,Medium,1560,3155
+RID0388,Royal Delights,Hazratganj,Lucknow,Chinese,3.8,Low,1662,1275
+RID0389,The Burger Barn,Koregaon Park,Lucknow,Chinese,4.9,Low,2519,3202
+RID0390,Thai Treat,Salt Lake,Mumbai,Lebanese,3.5,Medium,4286,2453
+RID0391,Grill and Chill,Malviya Nagar,Bangalore,Continental,2.9,High,2786,508
+RID0392,Noodle Nook,MG Road,Kolkata,Chinese,4.6,Low,2489,897
+RID0393,Pasta Paradise,Hazratganj,Bangalore,Lebanese,4.4,High,3696,2083
+RID0394,Chaat Hub,Salt Lake,Delhi,Chinese,2.7,Low,3105,1189
+RID0395,The American Diner,Salt Lake,Delhi,Lebanese,2.0,High,3769,3624
+RID0396,Spice Symphony,Banjara Hills,Pune,American,4.6,Medium,2845,2484
+RID0397,Haveli Heights,Hitech City,Pune,Thai,1.7,Medium,4854,4872
+RID0398,The American Diner,Malviya Nagar,Pune,Thai,2.4,Medium,1642,4401
+RID0399,The Food Court,Hitech City,Bangalore,Continental,1.6,Low,1280,4768
+RID0400,Flavors of India,Indiranagar,Mumbai,Continental,2.5,Medium,206,795
+RID0401,Lebanese Lounge,Indiranagar,Pune,Italian,1.8,Low,2694,4918
+RID0402,Flavors of India,Koregaon Park,Jaipur,Japanese,2.2,High,3900,4281
+RID0403,Pizza Palace,SG Highway,Chennai,Chinese,3.0,Low,1851,3742
+RID0404,Haveli Heights,Salt Lake,Mumbai,Chinese,2.4,Low,4698,2022
+RID0405,The Food Court,Banjara Hills,Jaipur,American,2.2,Medium,186,4537
+RID0406,Taco Tower,Connaught Place,Pune,Mexican,2.8,High,3952,2593
+RID0407,Haveli Heights,SG Highway,Ahmedabad,Thai,2.1,High,2930,3677
+RID0408,The American Diner,Connaught Place,Delhi,Chinese,3.4,Low,1026,1468
+RID0409,Urban Tadka,Connaught Place,Ahmedabad,American,3.2,Low,4836,2811
+RID0410,Flavors of India,Banjara Hills,Bangalore,Continental,3.8,High,1597,945
+RID0411,Taco Tower,SG Highway,Delhi,Lebanese,3.4,High,1699,4110
+RID0412,Lebanese Lounge,SG Highway,Lucknow,Japanese,2.7,Low,475,4240
+RID0413,Chaat Hub,Banjara Hills,Ahmedabad,Thai,3.6,Low,4962,355
+RID0414,Royal Delights,MG Road,Chennai,Mediterranean,2.7,Medium,4425,3536
+RID0415,Royal Delights,Connaught Place,Delhi,Thai,4.3,High,4432,2534
+RID0416,Thai Treat,Hitech City,Jaipur,Japanese,3.6,Medium,109,3304
+RID0417,Flavors of India,Koregaon Park,Bangalore,Lebanese,1.7,Medium,3168,1748
+RID0418,The Culinary Corner,Hazratganj,Pune,American,1.7,Low,3502,3406
+RID0419,Spice Symphony,Malviya Nagar,Delhi,Mexican,2.6,Medium,3031,837
+RID0420,Royal Delights,Hitech City,Bangalore,Indian,3.3,Low,2564,1689
+RID0421,Spice Symphony,MG Road,Chennai,Thai,3.3,Low,4179,1115
+RID0422,Haveli Heights,Hitech City,Hyderabad,Japanese,3.5,Low,1858,4681
+RID0423,Flavors of India,Salt Lake,Pune,Chinese,1.2,Medium,2870,1886
+RID0424,Haveli Heights,Indiranagar,Delhi,Thai,1.8,High,4041,4706
+RID0425,Grill and Chill,Koregaon Park,Delhi,Mediterranean,2.7,Low,2649,4659
+RID0426,Urban Tadka,Salt Lake,Pune,Lebanese,4.4,Medium,3829,1188
+RID0427,Royal Delights,Malviya Nagar,Mumbai,Japanese,4.1,Medium,1031,4257
+RID0428,Biryani Bliss,Hazratganj,Jaipur,Japanese,2.0,Low,1537,765
+RID0429,The Food Court,Hitech City,Bangalore,Lebanese,3.4,High,3851,3977
+RID0430,The Burger Barn,Hazratganj,Pune,Italian,4.1,Medium,1233,1039
+RID0431,Urban Tadka,Hazratganj,Pune,Italian,4.4,High,4968,3840
+RID0432,Urban Tadka,Salt Lake,Pune,Mexican,4.5,High,3572,341
+RID0433,Noodle Nook,Koregaon Park,Pune,Mediterranean,1.8,High,2278,3749
+RID0434,Chaat Hub,MG Road,Delhi,Lebanese,4.6,High,3041,759
+RID0435,Taco Tower,Malviya Nagar,Ahmedabad,Indian,3.1,Low,2014,4687
+RID0436,Grill and Chill,SG Highway,Jaipur,Continental,3.7,High,1693,2466
+RID0437,Chaat Hub,Connaught Place,Kolkata,Thai,4.6,High,952,2653
+RID0438,Royal Delights,Salt Lake,Jaipur,American,4.0,High,2411,4319
+RID0439,The Culinary Corner,Hitech City,Chennai,Mexican,2.9,High,1055,3285
+RID0440,Lebanese Lounge,SG Highway,Lucknow,Japanese,4.6,Low,2466,4938
+RID0441,Taco Tower,Banjara Hills,Delhi,Japanese,1.3,Medium,4671,2965
+RID0442,Taco Tower,Banjara Hills,Kolkata,Mediterranean,3.5,High,4252,1649
+RID0443,Thai Treat,Koregaon Park,Mumbai,Continental,1.6,Medium,3820,4603
+RID0444,The Burger Barn,SG Highway,Lucknow,Italian,3.6,Medium,2214,2237
+RID0445,Lebanese Lounge,SG Highway,Kolkata,Mexican,3.3,Medium,2936,2288
+RID0446,Pizza Palace,Hazratganj,Delhi,American,1.4,High,306,1782
+RID0447,Mediterranean Magic,MG Road,Lucknow,Thai,2.8,High,3220,4020
+RID0448,Flavors of India,Salt Lake,Bangalore,Mediterranean,4.1,Low,1476,3650
+RID0449,Haveli Heights,Malviya Nagar,Ahmedabad,Indian,2.7,Low,302,4982
+RID0450,Pizza Palace,Koregaon Park,Kolkata,Thai,2.1,High,680,3324
+RID0451,The Culinary Corner,Connaught Place,Kolkata,Thai,4.2,Low,4790,4136
+RID0452,Royal Delights,Connaught Place,Delhi,Chinese,5.0,High,681,4061
+RID0453,The Burger Barn,Hitech City,Pune,Thai,3.8,Low,639,2747
+RID0454,Noodle Nook,Indiranagar,Lucknow,Chinese,3.9,Medium,3914,2383
+RID0455,Sushi Sensation,Malviya Nagar,Chennai,Thai,4.5,Medium,2627,3363
+RID0456,Thai Treat,SG Highway,Hyderabad,Mediterranean,3.1,Medium,4859,2437
+RID0457,The Culinary Corner,Connaught Place,Ahmedabad,Lebanese,3.5,High,1143,1985
+RID0458,Grill and Chill,Malviya Nagar,Bangalore,Mexican,3.7,High,3241,520
+RID0459,Pasta Paradise,Indiranagar,Lucknow,Continental,4.7,Low,642,1775
+RID0460,Pizza Palace,Koregaon Park,Delhi,Japanese,1.5,Low,1027,538
+RID0461,Urban Tadka,Koregaon Park,Mumbai,Continental,4.0,Low,1468,1744
+RID0462,Flavors of India,SG Highway,Kolkata,Italian,4.8,Medium,3478,2109
+RID0463,Thai Treat,Salt Lake,Jaipur,Chinese,2.9,Low,2329,300
+RID0464,Pizza Palace,Malviya Nagar,Pune,Continental,1.8,Medium,164,1115
+RID0465,Chaat Hub,MG Road,Pune,Mediterranean,3.2,Low,1785,1233
+RID0466,Biryani Bliss,Hitech City,Jaipur,Continental,4.3,High,1020,2944
+RID0467,The Burger Barn,Hazratganj,Pune,Mediterranean,3.1,Medium,1366,1922
+RID0468,Mediterranean Magic,Malviya Nagar,Hyderabad,Mediterranean,3.3,High,3132,1936
+RID0469,Sushi Sensation,Koregaon Park,Lucknow,Chinese,1.1,Low,4403,3954
+RID0470,Taco Tower,Malviya Nagar,Mumbai,Japanese,4.2,Low,4157,1533
+RID0471,Royal Delights,Hitech City,Pune,Continental,4.5,Low,4387,1460
+RID0472,The American Diner,Hazratganj,Jaipur,Chinese,1.3,Low,2274,656
+RID0473,Lebanese Lounge,Hazratganj,Ahmedabad,American,4.9,High,2316,1727
+RID0474,Spice Symphony,Salt Lake,Delhi,Italian,2.8,High,4460,3212
+RID0475,Haveli Heights,Koregaon Park,Ahmedabad,American,3.2,Medium,4745,609
+RID0476,Sushi Sensation,Hitech City,Lucknow,Mediterranean,2.8,High,2644,4811
+RID0477,Thai Treat,Salt Lake,Jaipur,Chinese,2.0,Medium,875,4663
+RID0478,Thai Treat,Indiranagar,Delhi,Italian,2.4,Medium,1402,615
+RID0479,Sushi Sensation,SG Highway,Kolkata,American,1.6,High,4096,2139
+RID0480,Grill and Chill,Indiranagar,Ahmedabad,Lebanese,1.4,Low,3494,4743
+RID0481,Pizza Palace,Salt Lake,Delhi,Japanese,2.3,Low,161,1724
+RID0482,Sushi Sensation,MG Road,Jaipur,Thai,1.5,Low,2122,2924
+RID0483,Thai Treat,Malviya Nagar,Bangalore,Lebanese,3.7,Medium,3463,3060
+RID0484,Noodle Nook,Indiranagar,Jaipur,Chinese,1.2,Low,2265,4063
+RID0485,Noodle Nook,Hitech City,Ahmedabad,Japanese,4.2,Medium,560,4290
+RID0486,Biryani Bliss,Malviya Nagar,Bangalore,Mexican,1.5,Low,445,3126
+RID0487,The American Diner,MG Road,Jaipur,Thai,4.5,Low,3619,2034
+RID0488,The Burger Barn,Indiranagar,Delhi,Mexican,1.8,High,19,1250
+RID0489,Grill and Chill,Hitech City,Kolkata,American,3.0,Medium,282,1333
+RID0490,Urban Tadka,Connaught Place,Lucknow,Lebanese,2.0,High,4709,1740
+RID0491,Haveli Heights,Salt Lake,Lucknow,Mediterranean,3.4,High,2056,3427
+RID0492,The American Diner,SG Highway,Lucknow,Mexican,3.6,Low,3787,335
+RID0493,The American Diner,Indiranagar,Pune,Mediterranean,3.1,Low,1275,605
+RID0494,The Culinary Corner,MG Road,Kolkata,Mexican,3.8,Low,4583,3786
+RID0495,Pizza Palace,Connaught Place,Kolkata,American,1.0,Medium,4526,4906
+RID0496,Grill and Chill,Banjara Hills,Delhi,Lebanese,4.7,Low,1887,934
+RID0497,Mediterranean Magic,Koregaon Park,Lucknow,Chinese,1.1,High,1063,3374
+RID0498,The Food Court,Hazratganj,Delhi,Mediterranean,3.0,Low,4280,2676
+RID0499,The Food Court,SG Highway,Lucknow,Continental,4.8,High,1363,1344
+RID0500,Biryani Bliss,Salt Lake,Delhi,Indian,3.1,Low,2687,666
+RID0501,Haveli Heights,Malviya Nagar,Pune,Lebanese,3.6,Low,4005,2924
+RID0502,Royal Delights,MG Road,Pune,Thai,2.0,Low,2825,2085
+RID0503,The Food Court,Hitech City,Pune,Continental,4.1,Low,4912,3219
+RID0504,Noodle Nook,Connaught Place,Mumbai,Continental,3.8,Medium,3332,4420
+RID0505,Lebanese Lounge,Koregaon Park,Jaipur,Mediterranean,2.3,High,549,2482
+RID0506,Grill and Chill,Koregaon Park,Pune,Mexican,1.3,Medium,4017,3415
+RID0507,Grill and Chill,SG Highway,Kolkata,Continental,4.2,Low,1598,3188
+RID0508,Chaat Hub,Malviya Nagar,Hyderabad,Mediterranean,4.3,Medium,853,3886
+RID0509,The Food Court,SG Highway,Hyderabad,Chinese,3.2,High,4274,1326
+RID0510,Chaat Hub,Hitech City,Lucknow,Indian,4.9,High,3127,498
+RID0511,Flavors of India,Banjara Hills,Kolkata,American,2.8,Medium,1229,4487
+RID0512,Grill and Chill,MG Road,Delhi,American,1.1,Low,2793,1966
+RID0513,Urban Tadka,MG Road,Bangalore,Lebanese,1.9,High,4122,1752
+RID0514,Spice Symphony,Malviya Nagar,Kolkata,Mediterranean,1.8,High,4996,3162
+RID0515,The Culinary Corner,MG Road,Jaipur,Continental,4.3,Medium,4372,1670
+RID0516,Thai Treat,Malviya Nagar,Ahmedabad,Continental,4.5,Low,4833,4348
+RID0517,Chaat Hub,Banjara Hills,Kolkata,Thai,4.5,Low,4021,3535
+RID0518,Thai Treat,SG Highway,Pune,Thai,3.4,Medium,326,4846
+RID0519,Haveli Heights,Hazratganj,Hyderabad,American,3.5,Medium,4326,4974
+RID0520,The American Diner,Malviya Nagar,Chennai,Japanese,1.6,High,2103,1056
+RID0521,Haveli Heights,Hitech City,Lucknow,Mexican,2.2,Low,4734,3676
+RID0522,The Burger Barn,SG Highway,Delhi,Continental,1.1,High,3220,4680
+RID0523,Noodle Nook,Indiranagar,Ahmedabad,Continental,3.3,Medium,3336,526
+RID0524,Haveli Heights,Indiranagar,Kolkata,Continental,3.7,Medium,4177,2515
+RID0525,Taco Tower,MG Road,Ahmedabad,Continental,1.1,Low,2213,509
+RID0526,Noodle Nook,Indiranagar,Kolkata,Japanese,1.0,High,1059,4877
+RID0527,Chaat Hub,Hitech City,Ahmedabad,Mediterranean,1.6,Low,4628,3575
+RID0528,Thai Treat,Indiranagar,Ahmedabad,Italian,1.8,Low,2937,354
+RID0529,Mediterranean Magic,Connaught Place,Chennai,Mexican,1.4,High,2578,551
+RID0530,Royal Delights,MG Road,Ahmedabad,Indian,1.6,High,658,3862
+RID0531,Urban Tadka,MG Road,Kolkata,Thai,2.2,High,806,2322
+RID0532,The American Diner,SG Highway,Jaipur,Chinese,1.7,Medium,996,2583
+RID0533,Sushi Sensation,Indiranagar,Lucknow,Mexican,3.9,Low,2277,892
+RID0534,Thai Treat,SG Highway,Pune,Italian,3.9,Medium,197,1541
+RID0535,The American Diner,Koregaon Park,Pune,Indian,2.4,Low,821,2427
+RID0536,Sushi Sensation,Hazratganj,Jaipur,Thai,4.3,High,1783,4220
+RID0537,Noodle Nook,Malviya Nagar,Kolkata,Chinese,2.9,Low,414,2845
+RID0538,Royal Delights,Salt Lake,Ahmedabad,Thai,1.6,Low,1494,580
+RID0539,Spice Symphony,Banjara Hills,Ahmedabad,American,4.2,Low,1637,4383
+RID0540,Chaat Hub,SG Highway,Mumbai,Chinese,4.9,Medium,4108,2590
+RID0541,Haveli Heights,Malviya Nagar,Jaipur,Lebanese,4.6,Low,2786,4646
+RID0542,Royal Delights,Koregaon Park,Ahmedabad,Mexican,1.5,Low,3722,211
+RID0543,The Food Court,Indiranagar,Lucknow,Italian,4.9,Medium,4575,4546
+RID0544,The Food Court,Salt Lake,Pune,Thai,2.0,High,4959,4974
+RID0545,Lebanese Lounge,Salt Lake,Hyderabad,Chinese,2.4,High,2395,2429
+RID0546,The Burger Barn,Hitech City,Mumbai,Lebanese,1.4,Low,2320,2192
+RID0547,Chaat Hub,SG Highway,Chennai,Mediterranean,2.5,Medium,1147,1611
+RID0548,Flavors of India,Connaught Place,Jaipur,Mexican,2.0,Low,1098,3257
+RID0549,Grill and Chill,Indiranagar,Mumbai,Mexican,4.1,Low,983,1497
+RID0550,The American Diner,Malviya Nagar,Delhi,Thai,2.7,Low,4238,2725
+RID0551,The Culinary Corner,Koregaon Park,Lucknow,American,3.1,Low,2315,3058
+RID0552,Sushi Sensation,Indiranagar,Bangalore,Japanese,2.8,Low,3475,3373
+RID0553,Haveli Heights,SG Highway,Jaipur,Japanese,2.6,Low,908,3111
+RID0554,Sushi Sensation,Hitech City,Kolkata,Japanese,3.3,Low,2094,3115
+RID0555,Sushi Sensation,Hazratganj,Mumbai,Lebanese,1.9,Low,1248,3462
+RID0556,Sushi Sensation,SG Highway,Ahmedabad,American,4.7,Low,3429,1326
+RID0557,The Food Court,Hitech City,Jaipur,Lebanese,1.6,Medium,3981,1412
+RID0558,The Culinary Corner,MG Road,Bangalore,Lebanese,2.4,Medium,1206,1076
+RID0559,Pasta Paradise,SG Highway,Delhi,Lebanese,1.6,Low,4848,1581
+RID0560,Noodle Nook,Indiranagar,Kolkata,Mexican,1.8,High,202,4620
+RID0561,Flavors of India,Malviya Nagar,Pune,Indian,4.1,High,578,916
+RID0562,Flavors of India,MG Road,Pune,Thai,4.0,Medium,4742,4521
+RID0563,The Burger Barn,Hitech City,Ahmedabad,Chinese,2.1,Low,4168,4541
+RID0564,The Burger Barn,Malviya Nagar,Ahmedabad,Chinese,3.9,High,4516,2186
+RID0565,Royal Delights,Malviya Nagar,Bangalore,American,1.8,High,2548,2740
+RID0566,Thai Treat,Salt Lake,Kolkata,Indian,1.3,High,2897,4976
+RID0567,Taco Tower,Connaught Place,Pune,Lebanese,4.6,High,4341,4376
+RID0568,Grill and Chill,Indiranagar,Kolkata,Indian,1.6,Low,1431,3248
+RID0569,Haveli Heights,Indiranagar,Bangalore,Indian,1.5,Low,2695,3703
+RID0570,Pasta Paradise,Hitech City,Kolkata,Thai,3.2,Low,4185,3041
+RID0571,Haveli Heights,Connaught Place,Mumbai,Mediterranean,4.0,Low,3763,3194
+RID0572,Grill and Chill,MG Road,Mumbai,Mediterranean,3.8,High,3816,3045
+RID0573,The Food Court,Connaught Place,Lucknow,Chinese,1.5,High,921,4719
+RID0574,Chaat Hub,Hitech City,Kolkata,Mexican,4.1,Low,49,4198
+RID0575,Grill and Chill,Hitech City,Pune,Mediterranean,4.9,Medium,1979,1184
+RID0576,The American Diner,Hitech City,Delhi,Mexican,3.9,High,2371,4889
+RID0577,Grill and Chill,Hazratganj,Chennai,Chinese,3.5,High,2799,3472
+RID0578,Spice Symphony,Hitech City,Mumbai,Thai,3.8,Medium,1287,3248
+RID0579,Spice Symphony,Hazratganj,Hyderabad,Mexican,2.6,Medium,1670,2894
+RID0580,Royal Delights,Hitech City,Ahmedabad,Japanese,4.8,Low,3521,4991
+RID0581,Flavors of India,MG Road,Pune,Lebanese,2.7,Low,2644,2697
+RID0582,Spice Symphony,Koregaon Park,Delhi,Continental,1.6,High,1455,2634
+RID0583,Pasta Paradise,Hazratganj,Jaipur,Italian,1.9,High,2697,2334
+RID0584,Mediterranean Magic,Malviya Nagar,Kolkata,Italian,2.5,Medium,2531,1961
+RID0585,Pasta Paradise,Malviya Nagar,Ahmedabad,Thai,2.6,Medium,953,2224
+RID0586,Flavors of India,SG Highway,Delhi,Italian,1.3,High,2420,3747
+RID0587,The Burger Barn,MG Road,Hyderabad,Chinese,3.3,Medium,517,4652
+RID0588,Chaat Hub,Salt Lake,Bangalore,Thai,3.9,Medium,321,2005
+RID0589,Biryani Bliss,SG Highway,Pune,Thai,3.2,High,3953,3894
+RID0590,Lebanese Lounge,Salt Lake,Jaipur,Continental,4.7,Low,4106,2645
+RID0591,Spice Symphony,Hitech City,Kolkata,Indian,2.2,High,135,2200
+RID0592,Pasta Paradise,Hazratganj,Hyderabad,Chinese,4.7,High,732,3862
+RID0593,Sushi Sensation,Indiranagar,Bangalore,Continental,1.5,High,3085,3950
+RID0594,Royal Delights,Hitech City,Lucknow,Chinese,4.6,Medium,3875,3105
+RID0595,Pasta Paradise,Hitech City,Ahmedabad,Thai,2.6,Low,4924,3936
+RID0596,Pasta Paradise,Connaught Place,Bangalore,Continental,2.9,High,2893,1046
+RID0597,The Food Court,Indiranagar,Lucknow,Chinese,2.5,Low,3545,1125
+RID0598,The Culinary Corner,Indiranagar,Hyderabad,Lebanese,4.8,Low,3132,998
+RID0599,The Food Court,Malviya Nagar,Kolkata,Mexican,3.8,Medium,4565,1473
+RID0600,Sushi Sensation,Indiranagar,Chennai,Chinese,3.4,High,3221,4803
+RID0601,Pasta Paradise,Hazratganj,Kolkata,Continental,5.0,High,2649,2809
+RID0602,Pizza Palace,Koregaon Park,Pune,Japanese,2.6,Low,426,1423
+RID0603,Sushi Sensation,Connaught Place,Lucknow,Mexican,2.1,Low,1256,3539
+RID0604,Lebanese Lounge,Salt Lake,Lucknow,Chinese,5.0,Medium,4098,573
+RID0605,Pasta Paradise,MG Road,Pune,Italian,1.8,High,2341,3748
+RID0606,The Culinary Corner,Hazratganj,Lucknow,Italian,1.7,High,166,2961
+RID0607,Biryani Bliss,Indiranagar,Chennai,Chinese,3.9,High,1595,3746
+RID0608,The American Diner,Salt Lake,Jaipur,Thai,4.0,High,3269,1724
+RID0609,Grill and Chill,Malviya Nagar,Chennai,Lebanese,3.0,Medium,3947,975
+RID0610,The Burger Barn,Hitech City,Kolkata,Mexican,3.6,Medium,3022,339
+RID0611,Spice Symphony,Indiranagar,Delhi,Lebanese,2.1,Low,3272,2729
+RID0612,Pasta Paradise,Salt Lake,Delhi,Chinese,1.7,Low,3393,2786
+RID0613,Pizza Palace,Hitech City,Bangalore,Thai,2.0,Low,4328,2581
+RID0614,Noodle Nook,Malviya Nagar,Kolkata,Lebanese,4.9,High,1726,3738
+RID0615,Pizza Palace,SG Highway,Lucknow,Mediterranean,1.2,Medium,4349,1069
+RID0616,Mediterranean Magic,Connaught Place,Delhi,Japanese,4.1,Medium,3452,1976
+RID0617,Urban Tadka,Indiranagar,Bangalore,Thai,1.6,Medium,4447,1712
+RID0618,Taco Tower,Banjara Hills,Jaipur,Mexican,4.5,Medium,1046,2136
+RID0619,Urban Tadka,SG Highway,Chennai,Chinese,3.9,High,4083,650
+RID0620,The Burger Barn,Salt Lake,Lucknow,Continental,3.2,Low,3320,2376
+RID0621,Grill and Chill,Malviya Nagar,Chennai,Lebanese,2.3,High,844,976
+RID0622,Pasta Paradise,Connaught Place,Lucknow,Japanese,4.7,Medium,1983,4659
+RID0623,The Food Court,Koregaon Park,Lucknow,Chinese,3.7,High,4660,4450
+RID0624,The Food Court,Salt Lake,Jaipur,Mexican,1.8,High,2374,4702
+RID0625,Biryani Bliss,Hazratganj,Kolkata,Mediterranean,2.0,Medium,1647,3066
+RID0626,Lebanese Lounge,Connaught Place,Kolkata,Chinese,3.6,Medium,505,2393
+RID0627,Taco Tower,Malviya Nagar,Bangalore,Lebanese,4.8,Medium,43,4448
+RID0628,Taco Tower,Koregaon Park,Lucknow,Italian,3.9,High,1075,2510
+RID0629,Urban Tadka,Salt Lake,Chennai,Indian,4.2,High,1897,4797
+RID0630,Mediterranean Magic,Hitech City,Pune,Chinese,1.7,High,1623,500
+RID0631,Lebanese Lounge,Banjara Hills,Hyderabad,Continental,3.8,Medium,4747,3191
+RID0632,Grill and Chill,Connaught Place,Lucknow,American,1.4,Low,3801,4062
+RID0633,Biryani Bliss,Connaught Place,Bangalore,Chinese,4.2,High,12,2918
+RID0634,Royal Delights,Malviya Nagar,Ahmedabad,Mexican,3.2,Low,533,455
+RID0635,The Food Court,Hazratganj,Kolkata,Indian,2.2,High,3842,2674
+RID0636,The Burger Barn,Banjara Hills,Hyderabad,Mediterranean,1.1,High,1706,3372
+RID0637,Spice Symphony,Salt Lake,Jaipur,American,3.9,Medium,335,934
+RID0638,The Burger Barn,Banjara Hills,Delhi,Mediterranean,4.1,Low,1260,1939
+RID0639,Pasta Paradise,Hitech City,Delhi,Continental,2.2,High,3992,2709
+RID0640,Pizza Palace,MG Road,Delhi,Thai,4.8,Medium,2586,343
+RID0641,Pizza Palace,MG Road,Pune,Chinese,4.1,Medium,4477,2189
+RID0642,Flavors of India,MG Road,Pune,Mexican,3.9,High,2063,1719
+RID0643,Taco Tower,Malviya Nagar,Ahmedabad,Japanese,2.3,Medium,3660,4635
+RID0644,Taco Tower,MG Road,Ahmedabad,Thai,1.7,High,3461,4101
+RID0645,Noodle Nook,Connaught Place,Kolkata,Chinese,4.5,High,4107,3275
+RID0646,The Culinary Corner,Connaught Place,Kolkata,Lebanese,3.6,Medium,546,4139
+RID0647,Spice Symphony,Banjara Hills,Ahmedabad,Continental,1.9,Low,1392,1733
+RID0648,Thai Treat,SG Highway,Jaipur,Mexican,4.5,High,2872,960
+RID0649,The Culinary Corner,Indiranagar,Lucknow,Chinese,2.6,High,4349,3482
+RID0650,Sushi Sensation,Koregaon Park,Kolkata,American,4.9,Low,766,4117
+RID0651,Flavors of India,Hitech City,Hyderabad,Lebanese,4.3,Low,3202,710
+RID0652,Sushi Sensation,Connaught Place,Hyderabad,Japanese,1.2,Low,2557,3844
+RID0653,The Food Court,Hazratganj,Bangalore,Japanese,2.5,High,3340,4490
+RID0654,Sushi Sensation,Salt Lake,Mumbai,Indian,2.8,High,3395,2639
+RID0655,Grill and Chill,Indiranagar,Delhi,Indian,2.6,Medium,3058,1883
+RID0656,Thai Treat,Indiranagar,Mumbai,American,4.4,Medium,2534,3803
+RID0657,Chaat Hub,Koregaon Park,Jaipur,Japanese,3.3,Low,2457,3463
+RID0658,The American Diner,Connaught Place,Chennai,Mediterranean,4.2,Low,945,3897
+RID0659,Chaat Hub,Salt Lake,Jaipur,Mediterranean,1.6,High,4593,829
+RID0660,Chaat Hub,Koregaon Park,Hyderabad,Chinese,2.1,Medium,3148,2680
+RID0661,Grill and Chill,Malviya Nagar,Chennai,Continental,3.2,Low,1172,4165
+RID0662,Spice Symphony,Malviya Nagar,Jaipur,Mexican,2.8,Medium,716,676
+RID0663,Mediterranean Magic,Banjara Hills,Bangalore,Mediterranean,4.2,Medium,2676,1468
+RID0664,Sushi Sensation,Banjara Hills,Mumbai,Chinese,1.6,Low,1844,2639
+RID0665,Grill and Chill,Hitech City,Hyderabad,American,4.6,Low,1853,913
+RID0666,Mediterranean Magic,Malviya Nagar,Hyderabad,Japanese,4.1,Medium,4130,2938
+RID0667,Grill and Chill,MG Road,Jaipur,American,2.4,High,472,1761
+RID0668,Urban Tadka,Koregaon Park,Jaipur,Mexican,1.6,Medium,2722,1280
+RID0669,Royal Delights,Malviya Nagar,Pune,Italian,1.2,High,1532,891
+RID0670,Lebanese Lounge,Indiranagar,Pune,Thai,2.3,High,1149,1224
+RID0671,Royal Delights,Banjara Hills,Ahmedabad,Mediterranean,1.8,High,3795,1406
+RID0672,Flavors of India,SG Highway,Hyderabad,Thai,2.0,High,239,2493
+RID0673,Grill and Chill,Salt Lake,Bangalore,Japanese,1.4,High,3953,2410
+RID0674,Flavors of India,Connaught Place,Mumbai,Mexican,3.8,High,898,959
+RID0675,The Culinary Corner,Banjara Hills,Lucknow,Thai,2.3,High,3186,2333
+RID0676,Royal Delights,Indiranagar,Ahmedabad,American,1.8,High,2090,4302
+RID0677,Pizza Palace,Hazratganj,Mumbai,Chinese,4.0,Medium,2592,2517
+RID0678,Biryani Bliss,Hitech City,Pune,Mediterranean,3.2,Low,2834,1325
+RID0679,Grill and Chill,SG Highway,Pune,Japanese,1.3,High,858,3433
+RID0680,Pasta Paradise,Hitech City,Pune,American,4.6,Medium,910,4222
+RID0681,The Food Court,Banjara Hills,Kolkata,Italian,3.4,High,2254,3512
+RID0682,Grill and Chill,Malviya Nagar,Kolkata,Mexican,1.5,Low,517,4745
+RID0683,Pizza Palace,Hitech City,Chennai,Italian,1.7,Low,1054,1843
+RID0684,The American Diner,Salt Lake,Lucknow,Indian,4.0,High,2897,3005
+RID0685,Taco Tower,MG Road,Mumbai,Japanese,2.2,Low,4424,3350
+RID0686,Urban Tadka,Malviya Nagar,Mumbai,American,4.4,High,3556,1067
+RID0687,Haveli Heights,Malviya Nagar,Jaipur,Continental,4.5,High,4014,3977
+RID0688,Thai Treat,Banjara Hills,Jaipur,American,3.8,High,650,2400
+RID0689,The American Diner,Koregaon Park,Chennai,Indian,1.8,High,4179,208
+RID0690,Royal Delights,Salt Lake,Hyderabad,Chinese,2.7,Low,1530,4878
+RID0691,Taco Tower,Salt Lake,Delhi,Chinese,1.0,Low,4594,2666
+RID0692,Pizza Palace,Salt Lake,Ahmedabad,American,1.8,High,1961,809
+RID0693,The Food Court,MG Road,Ahmedabad,Italian,4.8,Low,2699,2692
+RID0694,The American Diner,Banjara Hills,Lucknow,Continental,4.5,Low,4633,4511
+RID0695,Noodle Nook,Salt Lake,Chennai,Indian,4.6,Medium,779,3850
+RID0696,Pizza Palace,Malviya Nagar,Lucknow,Chinese,4.5,High,4862,269
+RID0697,Royal Delights,Indiranagar,Chennai,Thai,4.5,Medium,381,2954
+RID0698,Mediterranean Magic,MG Road,Jaipur,Mexican,4.4,High,2445,2492
+RID0699,Sushi Sensation,Connaught Place,Hyderabad,Japanese,4.8,Medium,1374,4103
+RID0700,Chaat Hub,Koregaon Park,Lucknow,Continental,1.1,Low,773,4896
+RID0701,Spice Symphony,Banjara Hills,Delhi,American,3.5,High,2669,3577
+RID0702,Chaat Hub,Malviya Nagar,Jaipur,Italian,2.9,Low,3613,655
+RID0703,Biryani Bliss,Salt Lake,Chennai,Thai,4.6,High,4975,2294
+RID0704,Thai Treat,Indiranagar,Ahmedabad,Mexican,1.2,High,4810,4253
+RID0705,Lebanese Lounge,Koregaon Park,Pune,Continental,2.8,Low,1980,1939
+RID0706,Royal Delights,Salt Lake,Mumbai,Japanese,1.1,Medium,3462,4818
+RID0707,The American Diner,Indiranagar,Chennai,Mediterranean,2.3,Medium,4597,2965
+RID0708,Pasta Paradise,Indiranagar,Chennai,Lebanese,1.3,Low,3074,687
+RID0709,Urban Tadka,Hitech City,Hyderabad,Mexican,1.2,High,4482,3388
+RID0710,Sushi Sensation,Salt Lake,Bangalore,Continental,1.7,High,2510,2551
+RID0711,Chaat Hub,Malviya Nagar,Mumbai,Mexican,1.7,Low,2345,4638
+RID0712,The Culinary Corner,Indiranagar,Ahmedabad,Mediterranean,4.2,High,4784,907
+RID0713,Noodle Nook,Malviya Nagar,Kolkata,Thai,1.2,High,200,304
+RID0714,Haveli Heights,Koregaon Park,Delhi,Continental,4.5,Low,348,4330
+RID0715,Mediterranean Magic,MG Road,Kolkata,Italian,1.3,High,4974,3689
+RID0716,Sushi Sensation,SG Highway,Ahmedabad,American,4.8,Medium,65,544
+RID0717,Lebanese Lounge,Hazratganj,Hyderabad,American,3.1,Low,3527,2923
+RID0718,Flavors of India,Hitech City,Pune,American,1.1,High,564,2986
+RID0719,Grill and Chill,Malviya Nagar,Delhi,Chinese,1.3,Low,1854,4703
+RID0720,Biryani Bliss,Banjara Hills,Delhi,Indian,1.5,Low,290,2200
+RID0721,Grill and Chill,Koregaon Park,Mumbai,Lebanese,2.4,Medium,2954,2172
+RID0722,Lebanese Lounge,Salt Lake,Hyderabad,Mexican,2.2,Low,2482,1431
+RID0723,Thai Treat,Hitech City,Jaipur,Mediterranean,4.3,Low,2834,4557
+RID0724,Sushi Sensation,Hitech City,Hyderabad,American,1.2,Low,3689,1175
+RID0725,Chaat Hub,Hazratganj,Mumbai,Mexican,4.3,High,2286,2215
+RID0726,Haveli Heights,MG Road,Lucknow,Chinese,4.5,Low,3956,1204
+RID0727,Pizza Palace,SG Highway,Ahmedabad,Lebanese,2.1,Medium,1217,625
+RID0728,Biryani Bliss,Koregaon Park,Bangalore,Mexican,3.2,Low,2859,465
+RID0729,Mediterranean Magic,Hazratganj,Ahmedabad,Mexican,2.0,Medium,31,4199
+RID0730,Haveli Heights,Salt Lake,Ahmedabad,Italian,2.1,Medium,3597,4950
+RID0731,The Culinary Corner,Banjara Hills,Delhi,Lebanese,2.7,Medium,2124,3202
+RID0732,Mediterranean Magic,Hazratganj,Chennai,American,3.0,High,630,1160
+RID0733,Chaat Hub,Indiranagar,Chennai,Lebanese,2.9,Medium,1812,1929
+RID0734,Chaat Hub,Banjara Hills,Hyderabad,American,1.1,Low,2446,1176
+RID0735,Sushi Sensation,MG Road,Pune,Indian,3.3,High,3520,348
+RID0736,Biryani Bliss,Hazratganj,Jaipur,Mediterranean,4.9,Low,1757,578
+RID0737,The Burger Barn,Banjara Hills,Jaipur,Mexican,1.0,Low,1364,3349
+RID0738,The Culinary Corner,Hitech City,Hyderabad,Mediterranean,2.4,Low,3564,3473
+RID0739,Pasta Paradise,Malviya Nagar,Mumbai,Chinese,2.1,High,3975,3660
+RID0740,Taco Tower,Salt Lake,Mumbai,Continental,2.8,Low,1396,1890
+RID0741,The Food Court,Hazratganj,Lucknow,Mexican,3.1,Medium,4989,2656
+RID0742,Royal Delights,Hitech City,Hyderabad,Indian,1.5,Medium,4364,2247
+RID0743,The Burger Barn,Salt Lake,Delhi,Mediterranean,4.7,Medium,609,4908
+RID0744,Royal Delights,Indiranagar,Kolkata,Mediterranean,1.3,High,2192,1099
+RID0745,Urban Tadka,Indiranagar,Lucknow,Continental,2.9,Low,2222,775
+RID0746,The American Diner,Salt Lake,Bangalore,Lebanese,1.3,Medium,1894,4107
+RID0747,The Culinary Corner,Indiranagar,Bangalore,Lebanese,1.5,Medium,3093,1339
+RID0748,Chaat Hub,Banjara Hills,Mumbai,Continental,1.3,Medium,4780,3193
+RID0749,Chaat Hub,Indiranagar,Delhi,Italian,1.9,Low,3959,2579
+RID0750,Taco Tower,Banjara Hills,Bangalore,Lebanese,3.9,Medium,3706,4890
+RID0751,The Food Court,Hazratganj,Mumbai,Lebanese,1.7,High,3962,4516
+RID0752,Pizza Palace,Koregaon Park,Jaipur,Thai,3.1,Low,3892,2867
+RID0753,Spice Symphony,Connaught Place,Bangalore,Italian,3.6,Medium,400,4083
+RID0754,Grill and Chill,Hitech City,Ahmedabad,Italian,4.7,High,4572,314
+RID0755,Pasta Paradise,Hazratganj,Delhi,Mediterranean,3.8,Medium,4303,757
+RID0756,Lebanese Lounge,Koregaon Park,Hyderabad,Indian,3.1,Medium,467,1856
+RID0757,Spice Symphony,Salt Lake,Delhi,Japanese,3.2,Medium,410,4421
+RID0758,Sushi Sensation,Salt Lake,Lucknow,Mexican,1.5,Low,716,4966
+RID0759,Biryani Bliss,Malviya Nagar,Delhi,Mexican,1.7,Medium,244,711
+RID0760,Haveli Heights,Malviya Nagar,Pune,Indian,4.2,High,3403,525
+RID0761,Biryani Bliss,Indiranagar,Delhi,Indian,4.2,High,1303,3170
+RID0762,Spice Symphony,SG Highway,Jaipur,Lebanese,3.2,Low,1012,2900
+RID0763,Mediterranean Magic,SG Highway,Lucknow,American,3.6,Medium,4881,3166
+RID0764,Pasta Paradise,Hitech City,Pune,Mediterranean,2.9,Medium,4701,4712
+RID0765,Haveli Heights,Banjara Hills,Delhi,American,4.9,Medium,2822,871
+RID0766,The Culinary Corner,MG Road,Ahmedabad,American,3.5,Low,2504,3355
+RID0767,Mediterranean Magic,Hazratganj,Chennai,Thai,4.1,High,1308,362
+RID0768,Mediterranean Magic,SG Highway,Pune,Continental,3.8,Low,4967,2168
+RID0769,The American Diner,Koregaon Park,Mumbai,American,4.1,Medium,2865,3990
+RID0770,Urban Tadka,SG Highway,Delhi,American,4.0,High,2961,1698
+RID0771,Taco Tower,Hazratganj,Ahmedabad,Lebanese,3.8,Low,204,615
+RID0772,Taco Tower,SG Highway,Hyderabad,Continental,1.7,Low,312,2739
+RID0773,Haveli Heights,Koregaon Park,Kolkata,Indian,2.0,Low,330,1914
+RID0774,Sushi Sensation,Hazratganj,Delhi,Japanese,2.5,Low,1873,355
+RID0775,Lebanese Lounge,Indiranagar,Kolkata,Mexican,5.0,Medium,2692,1776
+RID0776,Spice Symphony,Connaught Place,Hyderabad,Thai,2.2,Medium,1338,2995
+RID0777,Urban Tadka,Connaught Place,Kolkata,Continental,2.0,High,2840,518
+RID0778,Urban Tadka,Hazratganj,Ahmedabad,Italian,3.4,Low,3909,1635
+RID0779,Sushi Sensation,Salt Lake,Bangalore,Chinese,1.2,High,4843,4744
+RID0780,The Burger Barn,Hazratganj,Mumbai,American,2.3,Medium,2465,3526
+RID0781,Noodle Nook,Koregaon Park,Lucknow,Mediterranean,1.9,Medium,1973,1386
+RID0782,Spice Symphony,Malviya Nagar,Chennai,Continental,4.2,Low,111,2347
+RID0783,Taco Tower,Connaught Place,Bangalore,Japanese,1.8,Low,738,4062
+RID0784,Chaat Hub,Connaught Place,Lucknow,Mexican,2.5,Medium,3751,415
+RID0785,Flavors of India,Banjara Hills,Hyderabad,Chinese,5.0,High,2289,2340
+RID0786,Noodle Nook,Malviya Nagar,Kolkata,Continental,3.5,High,2916,605
+RID0787,Lebanese Lounge,MG Road,Kolkata,Thai,3.0,Low,2853,2635
+RID0788,The Food Court,Hitech City,Kolkata,Japanese,1.2,Low,1079,2226
+RID0789,Biryani Bliss,Koregaon Park,Lucknow,American,4.0,High,4212,3621
+RID0790,Thai Treat,SG Highway,Lucknow,Thai,2.8,High,345,233
+RID0791,The Culinary Corner,Indiranagar,Lucknow,Japanese,1.9,Medium,1774,2701
+RID0792,Spice Symphony,Connaught Place,Kolkata,Mediterranean,4.3,High,4055,2825
+RID0793,Noodle Nook,Hazratganj,Hyderabad,Mediterranean,3.3,Low,2050,656
+RID0794,Flavors of India,Koregaon Park,Chennai,Mediterranean,4.4,Low,314,3727
+RID0795,Pasta Paradise,Connaught Place,Pune,Indian,4.7,Medium,3198,917
+RID0796,Thai Treat,Banjara Hills,Kolkata,Japanese,2.7,Low,3713,3885
+RID0797,Haveli Heights,Hazratganj,Chennai,Japanese,4.3,Low,4962,1083
+RID0798,Mediterranean Magic,Salt Lake,Kolkata,American,2.7,Low,1417,4860
+RID0799,Grill and Chill,Salt Lake,Delhi,Italian,2.9,High,3994,2555
+RID0800,Sushi Sensation,Indiranagar,Ahmedabad,Chinese,2.8,Medium,319,3293
+RID0801,Biryani Bliss,Banjara Hills,Kolkata,Chinese,3.7,Low,4160,508
+RID0802,Haveli Heights,Hitech City,Mumbai,Mexican,1.6,High,907,3244
+RID0803,Mediterranean Magic,SG Highway,Pune,Lebanese,1.1,Medium,576,2415
+RID0804,Urban Tadka,Hitech City,Delhi,Japanese,1.5,Medium,4387,424
+RID0805,Mediterranean Magic,Indiranagar,Chennai,Chinese,1.4,Low,1664,4387
+RID0806,Mediterranean Magic,Connaught Place,Hyderabad,Italian,4.1,Medium,2709,3345
+RID0807,Urban Tadka,Banjara Hills,Pune,Japanese,4.4,Low,2111,3821
+RID0808,Biryani Bliss,Hazratganj,Ahmedabad,Italian,3.5,High,2443,537
+RID0809,Spice Symphony,Banjara Hills,Jaipur,Indian,4.0,High,791,4713
+RID0810,Urban Tadka,SG Highway,Mumbai,Lebanese,5.0,Low,1940,2414
+RID0811,The Culinary Corner,Malviya Nagar,Ahmedabad,Mexican,1.8,Low,4051,2263
+RID0812,The Food Court,Koregaon Park,Lucknow,Italian,2.9,High,2573,878
+RID0813,Noodle Nook,Hitech City,Pune,Chinese,4.6,Medium,2339,1335
+RID0814,The Culinary Corner,Hazratganj,Jaipur,Lebanese,1.0,High,282,2083
+RID0815,Mediterranean Magic,Banjara Hills,Jaipur,Japanese,1.5,High,1251,517
+RID0816,Taco Tower,Connaught Place,Chennai,Italian,2.8,Medium,2787,2569
+RID0817,Biryani Bliss,Banjara Hills,Hyderabad,Italian,1.6,Low,2684,2145
+RID0818,Flavors of India,SG Highway,Kolkata,American,1.9,Low,2641,2063
+RID0819,Urban Tadka,Banjara Hills,Pune,Mexican,4.9,High,1741,1595
+RID0820,The Culinary Corner,Malviya Nagar,Hyderabad,Thai,1.9,Medium,848,2842
+RID0821,The Culinary Corner,Salt Lake,Hyderabad,Mexican,3.7,Low,3689,3103
+RID0822,The Food Court,Koregaon Park,Jaipur,American,2.0,High,851,1554
+RID0823,The American Diner,Indiranagar,Jaipur,Chinese,4.2,High,489,3462
+RID0824,The Culinary Corner,Koregaon Park,Chennai,Indian,1.1,Medium,1916,1675
+RID0825,The Food Court,Hazratganj,Ahmedabad,Chinese,1.3,Medium,4438,1453
+RID0826,Taco Tower,Banjara Hills,Pune,Thai,4.2,Low,3646,2541
+RID0827,Royal Delights,Connaught Place,Kolkata,American,4.3,High,2258,2566
+RID0828,Chaat Hub,Salt Lake,Chennai,Lebanese,2.8,Low,551,4518
+RID0829,Flavors of India,Salt Lake,Bangalore,Chinese,2.2,Low,4294,621
+RID0830,Pasta Paradise,MG Road,Lucknow,Italian,4.7,High,962,2434
+RID0831,Pizza Palace,Banjara Hills,Bangalore,Indian,4.5,High,4629,2441
+RID0832,Sushi Sensation,Connaught Place,Kolkata,Mexican,4.4,High,3622,2022
+RID0833,Spice Symphony,Banjara Hills,Chennai,Mediterranean,2.1,High,1311,4494
+RID0834,Taco Tower,Connaught Place,Mumbai,American,4.5,High,3950,1494
+RID0835,Lebanese Lounge,Connaught Place,Jaipur,Indian,4.5,Medium,1084,661
+RID0836,Spice Symphony,SG Highway,Mumbai,American,4.1,Medium,3502,4347
+RID0837,The Burger Barn,Banjara Hills,Bangalore,Indian,3.9,High,4707,967
+RID0838,Mediterranean Magic,Hazratganj,Kolkata,Chinese,4.3,Medium,1632,3496
+RID0839,Lebanese Lounge,Malviya Nagar,Jaipur,Indian,2.6,Low,2268,2747
+RID0840,Biryani Bliss,Indiranagar,Delhi,Lebanese,2.7,Low,1774,2909
+RID0841,The Food Court,Malviya Nagar,Ahmedabad,Indian,1.1,Medium,4691,1898
+RID0842,The Burger Barn,MG Road,Bangalore,Thai,4.2,Medium,3087,1798
+RID0843,Lebanese Lounge,Hazratganj,Ahmedabad,Mexican,3.1,High,3730,419
+RID0844,Chaat Hub,SG Highway,Hyderabad,Italian,4.0,High,1216,4807
+RID0845,Biryani Bliss,MG Road,Ahmedabad,American,3.4,Medium,1558,664
+RID0846,The Food Court,Indiranagar,Hyderabad,Thai,4.0,High,2385,2420
+RID0847,Lebanese Lounge,Indiranagar,Delhi,Japanese,4.1,Medium,489,2352
+RID0848,Chaat Hub,Banjara Hills,Ahmedabad,Italian,4.7,Low,1527,3194
+RID0849,The Culinary Corner,MG Road,Kolkata,Chinese,2.4,High,614,2118
+RID0850,Chaat Hub,Indiranagar,Ahmedabad,Mexican,4.7,Medium,4866,3320
+RID0851,The Burger Barn,Hitech City,Mumbai,Japanese,3.8,Low,838,460
+RID0852,Biryani Bliss,SG Highway,Ahmedabad,American,3.5,High,747,2045
+RID0853,Spice Symphony,MG Road,Lucknow,Indian,4.9,Low,4477,2431
+RID0854,Haveli Heights,SG Highway,Delhi,Lebanese,1.1,Medium,3968,902
+RID0855,Royal Delights,Hazratganj,Chennai,Thai,4.9,Medium,2036,804
+RID0856,The Food Court,Hitech City,Ahmedabad,Continental,2.9,High,1859,4114
+RID0857,Haveli Heights,Banjara Hills,Lucknow,Japanese,4.2,High,3761,4366
+RID0858,Haveli Heights,Salt Lake,Ahmedabad,Mexican,2.6,Medium,4358,4794
+RID0859,Thai Treat,Koregaon Park,Delhi,Lebanese,3.6,Medium,254,1325
+RID0860,Biryani Bliss,SG Highway,Jaipur,Japanese,3.0,Low,2959,3436
+RID0861,Noodle Nook,MG Road,Jaipur,Japanese,3.9,High,1123,1962
+RID0862,Pasta Paradise,Hazratganj,Pune,Japanese,2.7,Low,4670,3218
+RID0863,The Food Court,Salt Lake,Ahmedabad,Chinese,2.8,Medium,1884,1460
+RID0864,Spice Symphony,Salt Lake,Hyderabad,Indian,3.7,High,2483,685
+RID0865,Chaat Hub,Connaught Place,Lucknow,Thai,3.9,High,3928,2900
+RID0866,Royal Delights,Connaught Place,Hyderabad,Chinese,4.6,High,936,4137
+RID0867,The Culinary Corner,Salt Lake,Chennai,Italian,3.1,High,4835,1293
+RID0868,Spice Symphony,Malviya Nagar,Ahmedabad,Continental,2.7,High,2560,3273
+RID0869,Taco Tower,Malviya Nagar,Kolkata,American,4.7,High,624,4444
+RID0870,Urban Tadka,SG Highway,Pune,Mediterranean,2.1,Low,4857,4617
+RID0871,Sushi Sensation,Koregaon Park,Jaipur,American,2.5,High,1157,635
+RID0872,Noodle Nook,Salt Lake,Ahmedabad,Indian,2.1,Low,3503,2190
+RID0873,Haveli Heights,Malviya Nagar,Bangalore,Mediterranean,1.1,Low,3687,3905
+RID0874,Mediterranean Magic,Banjara Hills,Kolkata,Mexican,3.5,Low,3645,2608
+RID0875,Haveli Heights,Hazratganj,Jaipur,Chinese,4.2,Low,1505,585
+RID0876,The Culinary Corner,Banjara Hills,Hyderabad,Mediterranean,3.0,Low,4593,850
+RID0877,Haveli Heights,Hitech City,Bangalore,American,3.2,Medium,3798,775
+RID0878,Royal Delights,Malviya Nagar,Pune,Thai,4.4,Low,1917,3799
+RID0879,Mediterranean Magic,Indiranagar,Bangalore,Italian,1.2,High,2786,1119
+RID0880,Lebanese Lounge,Koregaon Park,Delhi,Lebanese,4.0,Low,915,988
+RID0881,Flavors of India,Hazratganj,Jaipur,American,2.4,Medium,3722,2520
+RID0882,Chaat Hub,Koregaon Park,Hyderabad,Chinese,3.5,High,4042,3071
+RID0883,Grill and Chill,Malviya Nagar,Pune,Italian,2.9,High,1414,2990
+RID0884,Lebanese Lounge,Hitech City,Chennai,Thai,2.7,High,2814,535
+RID0885,Lebanese Lounge,Banjara Hills,Mumbai,Indian,1.8,Low,3964,3438
+RID0886,Sushi Sensation,SG Highway,Chennai,Indian,4.8,Low,3280,1398
+RID0887,Flavors of India,Koregaon Park,Hyderabad,Lebanese,3.2,Medium,510,1649
+RID0888,Royal Delights,Salt Lake,Kolkata,Italian,2.8,Low,339,4232
+RID0889,The Food Court,Malviya Nagar,Jaipur,Mediterranean,1.8,Low,1753,4141
+RID0890,Chaat Hub,Indiranagar,Ahmedabad,Thai,3.5,Low,1014,767
+RID0891,Sushi Sensation,Banjara Hills,Chennai,Italian,4.5,Low,3138,813
+RID0892,Spice Symphony,Hitech City,Bangalore,Japanese,4.9,High,3846,726
+RID0893,The American Diner,Salt Lake,Hyderabad,Italian,1.7,High,4433,2650
+RID0894,Pasta Paradise,SG Highway,Ahmedabad,Mexican,3.7,Medium,4869,447
+RID0895,Royal Delights,Hazratganj,Mumbai,Mediterranean,1.2,Low,2056,1606
+RID0896,The Culinary Corner,Connaught Place,Ahmedabad,Italian,4.6,High,1679,4361
+RID0897,Grill and Chill,Indiranagar,Hyderabad,Mediterranean,4.8,Low,93,2262
+RID0898,The Food Court,Malviya Nagar,Jaipur,Lebanese,4.7,Medium,3491,4695
+RID0899,Lebanese Lounge,Koregaon Park,Pune,American,4.9,High,4071,3469
+RID0900,Spice Symphony,Malviya Nagar,Kolkata,Chinese,1.5,Low,782,3687
+RID0901,Chaat Hub,Koregaon Park,Lucknow,Thai,4.1,High,4608,2696
+RID0902,Haveli Heights,Hitech City,Kolkata,Chinese,4.1,Medium,3945,2226
+RID0903,The American Diner,Indiranagar,Chennai,Chinese,2.0,High,3525,4075
+RID0904,Lebanese Lounge,Banjara Hills,Jaipur,Continental,2.3,Low,4970,3150
+RID0905,Urban Tadka,Indiranagar,Ahmedabad,Japanese,4.6,Low,4716,2069
+RID0906,Spice Symphony,Koregaon Park,Bangalore,Thai,4.9,High,2296,465
+RID0907,Lebanese Lounge,Indiranagar,Mumbai,Mexican,4.6,Medium,2631,2456
+RID0908,Grill and Chill,Hazratganj,Ahmedabad,Chinese,3.8,High,3465,4310
+RID0909,Royal Delights,Banjara Hills,Bangalore,Mexican,3.3,Low,580,780
+RID0910,The Culinary Corner,Malviya Nagar,Ahmedabad,Indian,2.1,High,2528,2441
+RID0911,Spice Symphony,Banjara Hills,Bangalore,Continental,2.1,Low,4461,3373
+RID0912,Haveli Heights,MG Road,Bangalore,Thai,4.7,Medium,2530,1416
+RID0913,The American Diner,Indiranagar,Hyderabad,Indian,4.1,Medium,4883,295
+RID0914,Pizza Palace,Hitech City,Delhi,Lebanese,3.3,Medium,3988,3154
+RID0915,Mediterranean Magic,SG Highway,Kolkata,Italian,3.0,Low,4702,4870
+RID0916,Sushi Sensation,Malviya Nagar,Jaipur,Continental,3.8,Low,1681,213
+RID0917,Haveli Heights,SG Highway,Delhi,Lebanese,4.4,Low,3142,2994
+RID0918,The Food Court,Hazratganj,Chennai,American,1.9,Low,3567,688
+RID0919,Urban Tadka,Banjara Hills,Ahmedabad,Mexican,3.5,High,3316,606
+RID0920,Lebanese Lounge,Connaught Place,Ahmedabad,American,4.4,High,1728,2963
+RID0921,Flavors of India,Malviya Nagar,Chennai,American,1.7,Low,3528,4103
+RID0922,Mediterranean Magic,Salt Lake,Kolkata,Mexican,1.4,Medium,3512,2005
+RID0923,The American Diner,Hitech City,Hyderabad,Italian,4.7,Medium,4034,4745
+RID0924,Grill and Chill,SG Highway,Lucknow,Continental,3.6,Low,4598,647
+RID0925,Chaat Hub,MG Road,Hyderabad,Mediterranean,3.1,High,3670,970
+RID0926,The American Diner,Indiranagar,Lucknow,Lebanese,3.1,Medium,4895,2138
+RID0927,Thai Treat,Hazratganj,Mumbai,Japanese,4.6,High,134,778
+RID0928,Mediterranean Magic,Connaught Place,Kolkata,Chinese,2.2,Low,4418,3985
+RID0929,Biryani Bliss,SG Highway,Chennai,Italian,2.6,Medium,1309,4070
+RID0930,The American Diner,Banjara Hills,Jaipur,Indian,4.5,High,2065,3229
+RID0931,Flavors of India,Hitech City,Chennai,Thai,4.4,High,168,1560
+RID0932,Pizza Palace,Indiranagar,Lucknow,Italian,4.6,Medium,93,3032
+RID0933,The Burger Barn,SG Highway,Bangalore,Continental,4.3,High,2824,3458
+RID0934,Spice Symphony,MG Road,Chennai,Continental,2.0,Medium,4112,4338
+RID0935,Mediterranean Magic,Salt Lake,Ahmedabad,Chinese,2.4,Medium,3107,4888
+RID0936,Thai Treat,SG Highway,Jaipur,Mexican,2.6,Medium,941,2591
+RID0937,Chaat Hub,MG Road,Pune,Continental,1.3,Medium,1313,4091
+RID0938,Sushi Sensation,Connaught Place,Kolkata,Indian,5.0,Medium,2642,3218
+RID0939,Pizza Palace,MG Road,Bangalore,Lebanese,1.5,High,3364,3557
+RID0940,Sushi Sensation,MG Road,Bangalore,Chinese,4.8,Low,1086,3908
+RID0941,Lebanese Lounge,Connaught Place,Mumbai,Continental,2.0,High,190,3276
+RID0942,The American Diner,Banjara Hills,Bangalore,Continental,2.1,Medium,3392,3058
+RID0943,Thai Treat,Indiranagar,Delhi,American,1.7,Medium,436,2769
+RID0944,Grill and Chill,Indiranagar,Delhi,Italian,1.8,Low,555,1907
+RID0945,The American Diner,SG Highway,Mumbai,American,1.8,Medium,609,3511
+RID0946,Spice Symphony,SG Highway,Jaipur,Continental,3.0,High,2864,3013
+RID0947,The Burger Barn,Banjara Hills,Mumbai,Japanese,1.9,High,448,1752
+RID0948,Thai Treat,Connaught Place,Hyderabad,Chinese,4.7,Low,1080,3488
+RID0949,Chaat Hub,SG Highway,Delhi,Indian,2.6,High,645,4862
+RID0950,Flavors of India,Banjara Hills,Bangalore,Thai,2.7,Low,4773,3599
+RID0951,Flavors of India,Salt Lake,Ahmedabad,American,4.1,Medium,2194,3975
+RID0952,Sushi Sensation,SG Highway,Mumbai,Continental,2.6,Low,2765,4592
+RID0953,Spice Symphony,Banjara Hills,Pune,Thai,4.3,Low,2125,2217
+RID0954,Lebanese Lounge,Salt Lake,Jaipur,Chinese,4.6,Low,3059,3929
+RID0955,The Food Court,Koregaon Park,Ahmedabad,Indian,3.3,Medium,1850,1628
+RID0956,Lebanese Lounge,MG Road,Chennai,Japanese,4.6,Medium,4014,2002
+RID0957,The American Diner,Banjara Hills,Jaipur,Thai,2.8,Low,2619,3304
+RID0958,Flavors of India,Koregaon Park,Jaipur,Mexican,2.4,High,4525,1991
+RID0959,The American Diner,Koregaon Park,Delhi,Japanese,3.7,Medium,3038,4414
+RID0960,Pasta Paradise,MG Road,Bangalore,Lebanese,1.4,High,3952,2593
+RID0961,The American Diner,Koregaon Park,Jaipur,Indian,1.8,Low,3917,1528
+RID0962,Urban Tadka,Indiranagar,Hyderabad,Chinese,3.4,Medium,3303,2543
+RID0963,Pizza Palace,Koregaon Park,Hyderabad,Italian,5.0,Medium,4980,4894
+RID0964,The Burger Barn,MG Road,Pune,Chinese,1.1,Low,413,4456
+RID0965,Haveli Heights,Hitech City,Ahmedabad,Chinese,1.4,Low,3504,4893
+RID0966,Taco Tower,Hazratganj,Kolkata,Japanese,3.4,Medium,3918,4866
+RID0967,Mediterranean Magic,Salt Lake,Pune,American,1.3,Medium,3148,862
+RID0968,The American Diner,Koregaon Park,Ahmedabad,Thai,4.2,Low,4827,2720
+RID0969,Lebanese Lounge,Hitech City,Bangalore,Japanese,4.8,Medium,103,1646
+RID0970,Urban Tadka,Malviya Nagar,Ahmedabad,Thai,1.6,Low,1934,2422
+RID0971,The American Diner,Koregaon Park,Lucknow,Lebanese,2.5,High,1250,2335
+RID0972,Pasta Paradise,Indiranagar,Delhi,Chinese,2.5,Medium,1678,654
+RID0973,The Burger Barn,Connaught Place,Pune,Japanese,1.5,Low,3940,270
+RID0974,The American Diner,Malviya Nagar,Kolkata,Italian,2.7,Low,2451,1151
+RID0975,The Burger Barn,Indiranagar,Bangalore,Mexican,4.8,High,2893,2700
+RID0976,Mediterranean Magic,Malviya Nagar,Pune,Mexican,4.1,High,3214,2253
+RID0977,The Burger Barn,Connaught Place,Mumbai,Mediterranean,3.8,Low,3616,4236
+RID0978,Pizza Palace,Hitech City,Jaipur,Chinese,4.4,Medium,1834,498
+RID0979,Noodle Nook,Koregaon Park,Delhi,Continental,3.4,Low,1495,2983
+RID0980,Mediterranean Magic,Malviya Nagar,Lucknow,Continental,2.3,Medium,2229,927
+RID0981,Spice Symphony,Koregaon Park,Lucknow,Mexican,5.0,Low,3627,1936
+RID0982,Spice Symphony,Hazratganj,Hyderabad,Lebanese,3.2,Low,3475,2093
+RID0983,The American Diner,Indiranagar,Hyderabad,Chinese,4.3,Medium,3777,4734
+RID0984,Lebanese Lounge,Banjara Hills,Jaipur,Italian,2.6,Low,4468,3488
+RID0985,Sushi Sensation,SG Highway,Pune,Italian,3.8,High,2908,969
+RID0986,Sushi Sensation,Banjara Hills,Chennai,Japanese,3.8,Low,4298,3312
+RID0987,Urban Tadka,Hazratganj,Bangalore,American,3.6,Medium,4604,1214
+RID0988,Biryani Bliss,Hitech City,Delhi,Japanese,2.4,High,3511,3672
+RID0989,The Culinary Corner,SG Highway,Delhi,Thai,3.9,Medium,3567,2208
+RID0990,Chaat Hub,Connaught Place,Jaipur,Indian,4.6,Medium,2653,4122
+RID0991,Grill and Chill,Indiranagar,Jaipur,Japanese,2.2,High,1623,1610
+RID0992,Thai Treat,Koregaon Park,Bangalore,Mediterranean,2.4,Medium,1262,3059
+RID0993,Thai Treat,Koregaon Park,Hyderabad,Continental,5.0,Medium,3861,3420
+RID0994,The Burger Barn,Salt Lake,Chennai,American,4.2,Low,1818,3900
+RID0995,Lebanese Lounge,Koregaon Park,Jaipur,Lebanese,2.8,Medium,719,799
+RID0996,The Culinary Corner,SG Highway,Pune,Japanese,3.4,Medium,4377,1749
+RID0997,Flavors of India,Hazratganj,Pune,Continental,2.6,Medium,4159,2246
+RID0998,Taco Tower,Hitech City,Lucknow,Mexican,1.3,Low,1598,291
+RID0999,Sushi Sensation,Indiranagar,Mumbai,Chinese,3.4,Low,3537,4097
+RID1000,Mediterranean Magic,Salt Lake,Hyderabad,Mexican,2.2,Low,3312,4992
